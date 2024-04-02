@@ -6,15 +6,14 @@ description: https://astrobiology.botany.wisc.edu/
 
 ### The Gilroy "Collaboratory" Research Focus <a href="#h.p_wrqhnrjjsssj" id="h.p_wrqhnrjjsssj"></a>
 
-### Gilroy Lab <a href="#h.p_v7t3ys7dlrhf_l" id="h.p_v7t3ys7dlrhf_l"></a>
-
 We are interested in how plants sense and respond to their environment and how these signals regulate plant development. The research emphasis of the lab is to try and understand these processes at the cellular level. We combine advanced microscopy approaches such as confocal microscopy with biochemistry and molecular biology to address a wide range of biological questions:
 
-*
-  1. How do plants sense and respond to abiotic stresses?
-  2. How do roots and shoots sense and respond to gravity and touch stimuli?
-  3. How do plants regulate growth?
-  4. How do plants respond to the spaceflight environment?
+
+
+1. How do plants sense and respond to abiotic stresses?
+2. How do roots and shoots sense and respond to gravity and touch stimuli?
+3. How do plants regulate growth?
+4. How do plants respond to the spaceflight environment?
 
 {% embed url="https://youtu.be/7-3yFcZSyvo" %}
 
@@ -47,6 +46,10 @@ The Gilroy lab uses molecular analysis of _Arabidopsis_ plants with altered gene
 **Above Video:** Astronauts Scott Kelly, Kjell Lindgren, and Kimiya Yui all munched on red romaine lettuce this afternoon, except unlike your sad desk salad, this produce was grown on the International Space Station. It was the first time people have eaten food cultivated in space. Aug 10, 2015 the birth of the first ever Space-Farmers. Video courtesy of UW-Madison.
 
 ### What is the most stressful factor that life encounters living in low earth orbit on the ISS? <a href="#h.p_6zq6xfh83b8q_l" id="h.p_6zq6xfh83b8q_l"></a>
+
+\
+\
+
 
 **Right Video:** Time-lapse photography of astronaut Scott Tingle harvesting _Arabidopsis thaliana_ samples on the International Space Station (ISS) as part of the Gilroy APEX05 experiment. Video courtesy of NASA.
 
