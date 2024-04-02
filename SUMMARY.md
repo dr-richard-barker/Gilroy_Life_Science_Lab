@@ -10,4 +10,4 @@
 * [Astro-Rad-Bio-App](astro-rad-bio-app.md)
 * [Root system architecture and gravitropism analysis of wild type and A68 cotton](root-system-architecture-and-gravitropism-analysis-of-wild-type-and-a68-cotton.md)
 * [Prompt engineering description of RPM function](prompt-engineering-description-of-rpm-function.md)
-* [Statistical report (FL vs GC)](statistical-report-fl-vs-gc.md)
+* [Statistical report (FL vs GC) BRIC19 OSD-37](statistical-report-fl-vs-gc-bric19-osd-37.md)

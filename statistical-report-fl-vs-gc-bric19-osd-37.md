@@ -2,7 +2,7 @@
 description: 'Statistical report of test project GeneLab Ecotypes in space:'
 ---
 
-# Statistical report (FL vs GC)
+# Statistical report (FL vs GC) BRIC19 OSD-37
 
 ### Pairwise analysis of conditions with SARTools' edgeR library
 
