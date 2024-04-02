@@ -9,3 +9,4 @@
 * [X-species multi-omics transcriptional navigator](x-species-multi-omics-transcriptional-navigator.md)
 * [Astro-Rad-Bio-App](astro-rad-bio-app.md)
 * [Root system architecture and gravitropism analysis of wild type and A68 cotton](root-system-architecture-and-gravitropism-analysis-of-wild-type-and-a68-cotton.md)
+* [Prompt engineering description of RPM function](prompt-engineering-description-of-rpm-function.md)
