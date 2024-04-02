@@ -1,0 +1,170 @@
+Target file:
+              SampleLabel                                          File
+Col_Ground_1 Col_Ground_1 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+Col_Ground_2 Col_Ground_2 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+Col_Ground_3 Col_Ground_3 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+Col_Ground_4 Col_Ground_4 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+Cvi_Ground_1 Cvi_Ground_1 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+Cvi_Ground_2 Cvi_Ground_2 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+Cvi_Ground_3 Cvi_Ground_3 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+Ler_Ground_1 Ler_Ground_1 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+Ler_Ground_2 Ler_Ground_2 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+Ler_Ground_3 Ler_Ground_3 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+WS2_Ground_1 WS2_Ground_1 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+WS2_Ground_2 WS2_Ground_2 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+WS2_Ground_3 WS2_Ground_3 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+WS2_Ground_4 WS2_Ground_4 DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt
+             Treatment Genotype
+Col_Ground_1    Ground      Col
+Col_Ground_2    Ground      Col
+Col_Ground_3    Ground      Col
+Col_Ground_4    Ground      Col
+Cvi_Ground_1    Ground      Cvi
+Cvi_Ground_2    Ground      Cvi
+Cvi_Ground_3    Ground      Cvi
+Ler_Ground_1    Ground      Ler
+Ler_Ground_2    Ground      Ler
+Ler_Ground_3    Ground      Ler
+WS2_Ground_1    Ground      WS2
+WS2_Ground_2    Ground      WS2
+WS2_Ground_3    Ground      WS2
+WS2_Ground_4    Ground      WS2
+Col_Ground_1: 41671 rows and 9986 null count(s)
+Col_Ground_2: 41671 rows and 10056 null count(s)
+Col_Ground_3: 41671 rows and 14475 null count(s)
+Col_Ground_4: 41671 rows and 10765 null count(s)
+Cvi_Ground_1: 41671 rows and 9681 null count(s)
+Cvi_Ground_2: 41671 rows and 11029 null count(s)
+Cvi_Ground_3: 41671 rows and 11415 null count(s)
+Ler_Ground_1: 41671 rows and 8008 null count(s)
+Ler_Ground_2: 41671 rows and 10756 null count(s)
+Ler_Ground_3: 41671 rows and 16538 null count(s)
+WS2_Ground_1: 41671 rows and 10428 null count(s)
+WS2_Ground_2: 41671 rows and 12540 null count(s)
+WS2_Ground_3: 41671 rows and 14309 null count(s)
+WS2_Ground_4: 41671 rows and 15092 null count(s)
+
+Features removed:
+
+Top of the counts matrix:
+            Col_Ground_1 Col_Ground_2 Col_Ground_3 Col_Ground_4 Cvi_Ground_1
+AT1G01010.1          303          285          131          332          551
+AT1G01020.1           84           40           97           70          113
+AT1G01020.2           83           32           93           60          108
+AT1G01030.1           79           40           30           36           11
+AT1G01040.1          477          324          345          517          850
+AT1G01040.2          447          303          329          475          801
+            Cvi_Ground_2 Cvi_Ground_3 Ler_Ground_1 Ler_Ground_2 Ler_Ground_3
+AT1G01010.1          271          154          342           96           25
+AT1G01020.1           67           32           87           27            6
+AT1G01020.2           65           33           81           21            6
+AT1G01030.1           12            7           17           26            2
+AT1G01040.1          411          269          414          242           20
+AT1G01040.2          374          254          367          226           18
+            WS2_Ground_1 WS2_Ground_2 WS2_Ground_3 WS2_Ground_4
+AT1G01010.1          271           93           44           32
+AT1G01020.1           26            9            6            5
+AT1G01020.2           22            9            6            4
+AT1G01030.1           49           14           12           14
+AT1G01040.1          500          149          120           64
+AT1G01040.2          470          128          117           59
+
+Bottom of the counts matrix:
+            Col_Ground_1 Col_Ground_2 Col_Ground_3 Col_Ground_4 Cvi_Ground_1
+ATMG01360.1        32749        24373        15961        37590       165755
+ATMG01370.1          294          274          192          362          458
+ATMG01380.1          223          298         4248          411          339
+ATMG01390.1       103911       105784       105292       185772       137548
+ATMG01400.1           22           16            3           22           67
+ATMG01410.1           39           29           31           55           95
+            Cvi_Ground_2 Cvi_Ground_3 Ler_Ground_1 Ler_Ground_2 Ler_Ground_3
+ATMG01360.1        70408        57544       120316        37743         7398
+ATMG01370.1          223          127          432          141           26
+ATMG01380.1          191          216          270          173           65
+ATMG01390.1        81361        64779       245885        89452        42263
+ATMG01400.1           29           16           69           15            2
+ATMG01410.1           34           34          112           37           10
+            WS2_Ground_1 WS2_Ground_2 WS2_Ground_3 WS2_Ground_4
+ATMG01360.1        77641        33070        12028        10364
+ATMG01370.1          462          143           62           39
+ATMG01380.1          349          387          333           31
+ATMG01390.1       141523        57659        16427        23993
+ATMG01400.1           31           17           14            7
+ATMG01410.1          103           27           15           17
+Matrix of SERE statistics:
+             Col_Ground_1 Col_Ground_2 Col_Ground_3 Col_Ground_4 Cvi_Ground_1
+Col_Ground_1        0.000        3.910        7.622        4.862        9.488
+Col_Ground_2        3.910        0.000        6.208        4.880       10.079
+Col_Ground_3        7.622        6.208        0.000        6.391       10.589
+Col_Ground_4        4.862        4.880        6.391        0.000        9.944
+Cvi_Ground_1        9.488       10.079       10.589        9.944        0.000
+Cvi_Ground_2        7.545        7.823        8.655        7.337        3.338
+Cvi_Ground_3        6.755        7.016        7.850        7.471        3.586
+Ler_Ground_1        8.828        7.990        7.820        7.629        8.742
+Ler_Ground_2        6.584        6.826        8.147        8.425        8.874
+Ler_Ground_3        6.856        6.000        6.885        7.431       11.270
+WS2_Ground_1        7.244        6.530        7.324        7.617        8.899
+WS2_Ground_2        8.577        7.445        8.416        8.974       13.587
+WS2_Ground_3        6.230        5.409        5.819        5.807        7.194
+WS2_Ground_4        3.850        3.547        5.098        4.359        6.647
+             Cvi_Ground_2 Cvi_Ground_3 Ler_Ground_1 Ler_Ground_2 Ler_Ground_3
+Col_Ground_1        7.545        6.755        8.828        6.584        6.856
+Col_Ground_2        7.823        7.016        7.990        6.826        6.000
+Col_Ground_3        8.655        7.850        7.820        8.147        6.885
+Col_Ground_4        7.337        7.471        7.629        8.425        7.431
+Cvi_Ground_1        3.338        3.586        8.742        8.874       11.270
+Cvi_Ground_2        0.000        4.223        6.276        8.142        9.410
+Cvi_Ground_3        4.223        0.000        7.186        5.903        7.361
+Ler_Ground_1        6.276        7.186        0.000        8.690        6.968
+Ler_Ground_2        8.142        5.903        8.690        0.000        5.413
+Ler_Ground_3        9.410        7.361        6.968        5.413        0.000
+WS2_Ground_1        7.398        6.131        8.079        6.308        6.711
+WS2_Ground_2       10.830        8.588        9.597        8.016        4.100
+WS2_Ground_3        5.656        5.692        4.226        6.613        5.553
+WS2_Ground_4        5.609        4.645        5.096        4.596        4.247
+             WS2_Ground_1 WS2_Ground_2 WS2_Ground_3 WS2_Ground_4
+Col_Ground_1        7.244        8.577        6.230        3.850
+Col_Ground_2        6.530        7.445        5.409        3.547
+Col_Ground_3        7.324        8.416        5.819        5.098
+Col_Ground_4        7.617        8.974        5.807        4.359
+Cvi_Ground_1        8.899       13.587        7.194        6.647
+Cvi_Ground_2        7.398       10.830        5.656        5.609
+Cvi_Ground_3        6.131        8.588        5.692        4.645
+Ler_Ground_1        8.079        9.597        4.226        5.096
+Ler_Ground_2        6.308        8.016        6.613        4.596
+Ler_Ground_3        6.711        4.100        5.553        4.247
+WS2_Ground_1        0.000        7.966        5.018        3.668
+WS2_Ground_2        7.966        0.000        5.782        4.153
+WS2_Ground_3        5.018        5.782        0.000        3.634
+WS2_Ground_4        3.668        4.153        3.634        0.000
+Number of features discarded by the filtering:
+18432 
+
+Design of the statistical model:
+~ Genotype 
+
+Normalization factors:
+ [1] 1.1287630 1.0781180 0.9415110 1.0718057 1.2004407 1.2573415 1.1010632
+ [8] 1.0932785 0.9356994 0.6494286 0.9362032 0.7508739 1.0420594 1.0068274
+Coefficients of the model: (Intercept)  GenotypeCvi  GenotypeLer  GenotypeWS2 
+Comparison Cvi vs Col: testing coefficient GenotypeCvi 
+Comparison Ler vs Col: testing coefficient GenotypeLer 
+Comparison WS2 vs Col: testing coefficient GenotypeWS2 
+Comparison Ler vs Cvi: testing contrast (0, -1, 1, 0) 
+Comparison WS2 vs Cvi: testing contrast (0, -1, 0, 1) 
+Comparison WS2 vs Ler: testing contrast (0, 0, -1, 1) 
+null device 
+          1 
+pdf 
+  2 
+pdf 
+  2 
+Number of features down/up and total:
+     Test vs Ref # down # up # total
+[1,] Cvi vs Col  1753   1483 3236   
+[2,] Ler vs Col  1450   1942 3392   
+[3,] WS2 vs Col  1917   2036 3953   
+[4,] Ler vs Cvi  322    745  1067   
+[5,] WS2 vs Cvi  1377   1625 3002   
+[6,] WS2 vs Ler  1304   1078 2382   
+HTML report created

@@ -1,0 +1,14 @@
+DRB_RNAseq_counts_2018_Ecotypes_BRIC19_targets_v5_GC.txt
+DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt
+.job.ad
+.machine.ad
+_condor_stderr
+_condor_stdout
+condor_exec.exe
+.chirp_config
+.chirp.config
+logs/logs-stderr-output
+logs/logs-stdout-output
+config
+job
+iplant.cmd

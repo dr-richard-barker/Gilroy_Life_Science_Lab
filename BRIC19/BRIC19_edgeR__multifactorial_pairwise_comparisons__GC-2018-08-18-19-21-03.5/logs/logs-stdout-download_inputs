@@ -1,0 +1,91 @@
+Attaching to 27eb9b52a8f3426d9b08ae2b793b7a98_download_inputs_1
+download_inputs_1  | [porklock] [arguments]  (get --user dr_richard_barker --source-list /configs/input_path.list -m ipc-analysis-id,4a08ceda-54fe-11e6-862f-008cfa5ae621,UUID -m ipc-execution-id,27eb9b52-a8f3-426d-9b08-ae2b793b7a98,UUID)
+download_inputs_1  | [porklock] [command] 'get'
+download_inputs_1  | [porklock] [options]  {:debug-config nil, :meta [(ipc-analysis-id 4a08ceda-54fe-11e6-862f-008cfa5ae621 UUID) (ipc-execution-id 27eb9b52-a8f3-426d-9b08-ae2b793b7a98 UUID)], :job-uuid 27eb9b52-a8f3-426d-9b08-ae2b793b7a98, :source nil, :vault-token 4a24dc7a-251c-d7a5-fb8a-df7d7f47cbe4, :vault-addr https://acan.cyverse.org:8200, :source-list /configs/input_path.list, :help false, :user dr_richard_barker, :destination .}
+download_inputs_1  | [porklock] [remnants]  []
+download_inputs_1  | 2018-08-18 19:22:25,331 INFO  [main] clojure-commons.config: CONFIG: porklock.irods-home = /iplant/home
+download_inputs_1  | 2018-08-18 19:22:25,343 INFO  [main] clojure-commons.config: CONFIG: porklock.irods-host = data.iplantcollaborative.org
+download_inputs_1  | 2018-08-18 19:22:25,343 INFO  [main] clojure-commons.config: CONFIG: porklock.irods-pass = ********
+download_inputs_1  | 2018-08-18 19:22:25,344 INFO  [main] clojure-commons.config: CONFIG: porklock.irods-port = 1247
+download_inputs_1  | 2018-08-18 19:22:25,344 INFO  [main] clojure-commons.config: CONFIG: porklock.irods-resc = 
+download_inputs_1  | 2018-08-18 19:22:25,344 INFO  [main] clojure-commons.config: CONFIG: porklock.irods-user = ********
+download_inputs_1  | 2018-08-18 19:22:25,345 INFO  [main] clojure-commons.config: CONFIG: porklock.irods-zone = iplant
+download_inputs_1  | [porklock]  Metadata tuples for /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_targets_v5_GC.txt are ((ipc-analysis-id 4a08ceda-54fe-11e6-862f-008cfa5ae621 UUID) (ipc-execution-id 27eb9b52-a8f3-426d-9b08-ae2b793b7a98 UUID))
+download_inputs_1  | [porklock]  Size of tuple (ipc-analysis-id 4a08ceda-54fe-11e6-862f-008cfa5ae621 UUID) is 3
+download_inputs_1  | [porklock]  Might be adding metadata to /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_targets_v5_GC.txt (ipc-analysis-id 4a08ceda-54fe-11e6-862f-008cfa5ae621 UUID)
+download_inputs_1  | [porklock]  AVU? /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_targets_v5_GC.txt ({:unit UUID, :value 4a08ceda-54fe-11e6-862f-008cfa5ae621, :attr ipc-analysis-id})
+download_inputs_1  | [porklock]  Size of tuple (ipc-execution-id 27eb9b52-a8f3-426d-9b08-ae2b793b7a98 UUID) is 3
+download_inputs_1  | [porklock]  Might be adding metadata to /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_targets_v5_GC.txt (ipc-execution-id 27eb9b52-a8f3-426d-9b08-ae2b793b7a98 UUID)
+download_inputs_1  | [porklock]  AVU? /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_targets_v5_GC.txt ()
+download_inputs_1  | [porklock]  Adding metadata ipc-execution-id 27eb9b52-a8f3-426d-9b08-ae2b793b7a98 /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_targets_v5_GC.txt
+download_inputs_1  | [porklock]  -------
+download_inputs_1  | [porklock]  iput status update:
+download_inputs_1  | [porklock]  	transfer state: #object[org.irods.jargon.core.transfer.TransferStatus$TransferState 0x2f5ac102 IN_PROGRESS_START_FILE]
+download_inputs_1  | [porklock]  	transfer type: #object[org.irods.jargon.core.transfer.TransferStatus$TransferType 0x895416d GET]
+download_inputs_1  | [porklock]  	source path: /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_targets_v5_GC.txt
+download_inputs_1  | [porklock]  	dest path: /de-app-work/./DRB_RNAseq_counts_2018_Ecotypes_BRIC19_targets_v5_GC.txt
+download_inputs_1  | [porklock]  	file size: 1029
+download_inputs_1  | [porklock]  	bytes transferred: 0
+download_inputs_1  | [porklock]  	files to transfer: 1
+download_inputs_1  | [porklock]  	files skipped: 0
+download_inputs_1  | [porklock]  	files transferred: 0
+download_inputs_1  | [porklock]  	transfer host: data.iplantcollaborative.org
+download_inputs_1  | [porklock]  	transfer zone: iplant
+download_inputs_1  | [porklock]  	transfer resource: 
+download_inputs_1  | [porklock]  -------
+download_inputs_1  | [porklock]  -------
+download_inputs_1  | [porklock]  iput status update:
+download_inputs_1  | [porklock]  	transfer state: #object[org.irods.jargon.core.transfer.TransferStatus$TransferState 0x117525fe IN_PROGRESS_COMPLETE_FILE]
+download_inputs_1  | [porklock]  	transfer type: #object[org.irods.jargon.core.transfer.TransferStatus$TransferType 0x895416d GET]
+download_inputs_1  | [porklock]  	source path: /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_targets_v5_GC.txt
+download_inputs_1  | [porklock]  	dest path: /de-app-work/./DRB_RNAseq_counts_2018_Ecotypes_BRIC19_targets_v5_GC.txt
+download_inputs_1  | [porklock]  	file size: 1029
+download_inputs_1  | [porklock]  	bytes transferred: 1029
+download_inputs_1  | [porklock]  	files to transfer: 1
+download_inputs_1  | [porklock]  	files skipped: 0
+download_inputs_1  | [porklock]  	files transferred: 1
+download_inputs_1  | [porklock]  	transfer host: data.iplantcollaborative.org
+download_inputs_1  | [porklock]  	transfer zone: iplant
+download_inputs_1  | [porklock]  	transfer resource: 
+download_inputs_1  | [porklock]  -------
+download_inputs_1  | [porklock]  Metadata tuples for /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt are ((ipc-analysis-id 4a08ceda-54fe-11e6-862f-008cfa5ae621 UUID) (ipc-execution-id 27eb9b52-a8f3-426d-9b08-ae2b793b7a98 UUID))
+download_inputs_1  | [porklock]  Size of tuple (ipc-analysis-id 4a08ceda-54fe-11e6-862f-008cfa5ae621 UUID) is 3
+download_inputs_1  | [porklock]  Might be adding metadata to /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt (ipc-analysis-id 4a08ceda-54fe-11e6-862f-008cfa5ae621 UUID)
+download_inputs_1  | [porklock]  AVU? /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt ()
+download_inputs_1  | [porklock]  Adding metadata ipc-analysis-id 4a08ceda-54fe-11e6-862f-008cfa5ae621 /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt
+download_inputs_1  | [porklock]  Size of tuple (ipc-execution-id 27eb9b52-a8f3-426d-9b08-ae2b793b7a98 UUID) is 3
+download_inputs_1  | [porklock]  Might be adding metadata to /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt (ipc-execution-id 27eb9b52-a8f3-426d-9b08-ae2b793b7a98 UUID)
+download_inputs_1  | [porklock]  AVU? /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt ()
+download_inputs_1  | [porklock]  Adding metadata ipc-execution-id 27eb9b52-a8f3-426d-9b08-ae2b793b7a98 /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt
+download_inputs_1  | [porklock]  -------
+download_inputs_1  | [porklock]  iput status update:
+download_inputs_1  | [porklock]  	transfer state: #object[org.irods.jargon.core.transfer.TransferStatus$TransferState 0x2f5ac102 IN_PROGRESS_START_FILE]
+download_inputs_1  | [porklock]  	transfer type: #object[org.irods.jargon.core.transfer.TransferStatus$TransferType 0x895416d GET]
+download_inputs_1  | [porklock]  	source path: /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt
+download_inputs_1  | [porklock]  	dest path: /de-app-work/./DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt
+download_inputs_1  | [porklock]  	file size: 2188446
+download_inputs_1  | [porklock]  	bytes transferred: 0
+download_inputs_1  | [porklock]  	files to transfer: 1
+download_inputs_1  | [porklock]  	files skipped: 0
+download_inputs_1  | [porklock]  	files transferred: 1
+download_inputs_1  | [porklock]  	transfer host: data.iplantcollaborative.org
+download_inputs_1  | [porklock]  	transfer zone: iplant
+download_inputs_1  | [porklock]  	transfer resource: 
+download_inputs_1  | [porklock]  -------
+download_inputs_1  | [porklock]  -------
+download_inputs_1  | [porklock]  iput status update:
+download_inputs_1  | [porklock]  	transfer state: #object[org.irods.jargon.core.transfer.TransferStatus$TransferState 0x117525fe IN_PROGRESS_COMPLETE_FILE]
+download_inputs_1  | [porklock]  	transfer type: #object[org.irods.jargon.core.transfer.TransferStatus$TransferType 0x895416d GET]
+download_inputs_1  | [porklock]  	source path: /iplant/home/dr_richard_barker/BRIC19-GeneLab/DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt
+download_inputs_1  | [porklock]  	dest path: /de-app-work/./DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5_GC.txt
+download_inputs_1  | [porklock]  	file size: 2188446
+download_inputs_1  | [porklock]  	bytes transferred: 2188446
+download_inputs_1  | [porklock]  	files to transfer: 1
+download_inputs_1  | [porklock]  	files skipped: 0
+download_inputs_1  | [porklock]  	files transferred: 2
+download_inputs_1  | [porklock]  	transfer host: data.iplantcollaborative.org
+download_inputs_1  | [porklock]  	transfer zone: iplant
+download_inputs_1  | [porklock]  	transfer resource: 
+download_inputs_1  | [porklock]  -------
+27eb9b52a8f3426d9b08ae2b793b7a98_download_inputs_1 exited with code 0
+Aborting on container exit...
