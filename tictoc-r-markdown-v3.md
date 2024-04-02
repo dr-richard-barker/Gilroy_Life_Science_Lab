@@ -4,11 +4,15 @@ description: >-
   insight into Cotton's response to space flght.
 ---
 
-# TICTOC R Markdown v3
+# Targeting Improved Cotton Through Orbital Cultivation (TIC TOC)
 
 ### This video summarizes the results as part of the  Space Agriculture conference (2023).
 
 {% embed url="https://youtu.be/BYTGcVVV4t4?si=0P5xZKDzKEoUvjst" %}
+
+TIC-TOC (Targeting Improved Cotton Through Orbital Cultivation) is a project by the University of Wisconsin–Madison's Gilroy Life Science Lab that compares cotton grown in space to cotton grown on Earth. The lab's research focuses on how plants sense and respond to their environment, and how these signals regulate plant development. The lab uses advanced microscopy techniques, biochemistry, and molecular biology to address biological questions like how plants respond to spaceflight.
+
+### &#x20;
 
 ### 1. Read data
 
