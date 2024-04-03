@@ -7,24 +7,66 @@ description: >-
 # There is natural diversity in sensitivity to salt (NaCl)
 
 {% embed url="https://youtu.be/FNnyvYmXO2c" %}
+Time-lapse scanning laser confocal microscope video showing a calcium wave propagating through a root. In the root, these waves move through the cortical and endodermal cell layers at speeds of up to 400 µm/s, i.e., traversing several cells per second.
+{% endembed %}
 
-[Plant roots detect salt and send this information to the shoots via calcium (Ca2+) waves.](https://astrobiology.botany.wisc.edu/gilroy-lab-home/plants-and-salt#h.p\_338m09aLygHb)[Natural diversity in sensitivity to salt (NaCl)](https://astrobiology.botany.wisc.edu/gilroy-lab-home/plants-and-salt#h.ko7uv03k5zek)[Explore the analysis of natural variation of different varieties of Arabidopsis plants in resistance to salinity.](https://astrobiology.botany.wisc.edu/gilroy-lab-home/plants-and-salt#h.b8tv80yct8vu)[Soil salinity chemistry class for K-12 and undergraduate students](https://astrobiology.botany.wisc.edu/gilroy-lab-home/plants-and-salt#h.f3uaja2xugep)
 
-Left: Time-lapse scanning laser confocal microscope video showing a calcium wave propagating through a root. In the root, these waves move through the cortical and endodermal cell layers at speeds of up to 400 µm/s, i.e., traversing several cells per second. This Ca2+ wave system correlates with the triggering of molecular responses in distant parts of the plant upon perception of localized (salt) stress. Such propagating Ca2+ waves provide a new mechanism for the rapid integration of activities throughout the plant body ([Choi et al., 2014](https://www.google.com/url?q=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpubmed%2F%3Fterm%3DSalt%2Bstress-induced%2BCa2%252B%2Bwaves%2Bare%2Bassociated%2Bwith%2Brapid%252C%2Blong-distance%2Broot-to-shoot%2Bsignaling%2Bin%2Bplants\&sa=D\&sntz=1\&usg=AOvVaw3SJ66KVDK37onpnY4qsiRA)).
+
+Choi et al. (2014) discovered a novel mechanism through which plants integrate their responses to localized salt stress across different parts, involving Ca2+ wave systems. This system allows for the rapid transmission of stress signals from the roots, where salt is detected, to distant parts of the plant, facilitating a coherent molecular response. The propagation of these Ca2+ waves underscores a critical pathway for the instant communication of salt stress within plants, highlighting the natural variation in salt sensitivity and the advanced physiological tactics plants employ to manage environmental stressors.
+
+
+
+## Interactive Qlik Application: Exploring Salinity Resistance in Arabidopsis Varieties
+
+### Overview
+
+Salinity is a critical stress factor affecting plant growth, development, and productivity. Understanding the natural variations in resistance to salinity among Arabidopsis varieties is essential for breeding programs, genetic improvement efforts, and ecological studies. Our Qlik application provides a robust platform for visualizing and analyzing these variations in an interactive and user-friendly manner.
+
+{% embed url="https://gilroy-qlik.botany.wisc.edu/a/sense/app/8186308d-ae6c-4432-b861-e14224d2c791" %}
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>This document introduces an innovative Qlik application designed for a comprehensive exploration and analysis of the inherent variation in salinity resistance across different Arabidopsis plant varieties. This tool is aimed at researchers, educators, and agriculture professionals seeking in-depth understanding of plant responses to salinity stress.</p></figcaption></figure>
+
+### Features
+
+* **Variety Comparison**: Users can compare the salinity resistance of multiple Arabidopsis varieties side by side.
+* **Data Analysis Tools**: The application includes various tools for statistical analysis, helping users identify key differences and similarities between varieties.
+* **Interactive Visualizations**: Customizable charts and graphs enhance the data exploration experience, offering insights into the genetic basis of salinity resistance.
+
+
+
+### Benefits
+
+* **Enhanced Understanding**: Aids in the comprehension of complex genetic and environmental interactions affecting salinity resistance.
+* **Informed Decision-Making**: Supports researchers and breeders in making evidence-based decisions on variety selection for specific environments.
+* **Educational Value**: Serves as an excellent teaching tool for students and educators in plant sciences, genetics, and environmental studies.
+
+### Accessing the Application
+
+The Qlik application is accessible online, requiring no special software installation. For access, please visit our website or contact our support team for more information.
+
+In conclusion, the Interactive Qlik Application for Exploring Resistance to Salinity offers a powerful solution for the scientific community to advance our understanding of plant resilience to salinity stress. By leveraging this tool, we can make significant strides in agriculture sustainability and food security.
 
 
 
 ## Explore the analysis of natural variation of different varieties of _Arabidopsis_ plants in resistance to salinity. <a href="#h.b8tv80yct8vu_l" id="h.b8tv80yct8vu_l"></a>
 
 {% embed url="https://docs.google.com/presentation/d/1tCT10CKDdYLcNA8vmvJqXRcCa2NAMh9c7x3Dim-MzEs/present?slide=id.p1" %}
+Google slide summarizing the experiment used to create the data for exploring resistance to salinity.
+{% endembed %}
 
-## Soil salinity chemistry class for K-12 and undergraduate students <a href="#h.f3uaja2xugep_l" id="h.f3uaja2xugep_l"></a>
+## Easter egg!: Soil salinity chemistry class for K-12 and undergraduate students <a href="#h.f3uaja2xugep_l" id="h.f3uaja2xugep_l"></a>
 
-Note: This is important for future agro-ecosystems on Earth and Mars.&#x20;
+Hey there, budding scientists and Space enthusiasts!
 
-[Click here to launch your student questionaire](https://docs.google.com/document/d/1WV2zvUh0FNiUhLKRGRZ\_H8ht0pLcWpNZ57QaOqHFaWw/edit?usp=sharing)
+We're super excited to share something amazing with you - a journey to Mars that's been dreamt up with our friends over at Astrobotany.com and Astrolessons.com. 🚀🌿
 
-[Made in collaboration with www.astrolessons.com](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fastrolessons-com%2Fhome\&sa=D\&sntz=1\&usg=AOvVaw0FxdEFPdyvnjU9RfX8tT-k)[Journey to marswww.astrobotany.com](https://docs.google.com/presentation/d/e/2PACX-1vRYSQw1bKSaoWp-dH3bGuMlvma9GP-4bd50okS5GFMEJhuH\_lYZoAQxw7ChRAqAMj91NWEsbyZs3nMC/pub?start=true\&loop=true\&delayms=5000)
+Wanna be part of this adventure? Launch your student questionnaire here and join us on this epic quest!
+
+Now, for all you future scientists and agriculturists, we've got something special: a fun and interactive **Soil Salinity Chemistry Class** tailored just for K-12 and undergrad students. It's not just any class; it's a deep dive into what it takes to cultivate life in the most unexpected places - Earth and Mars!
+
+Remember, this knowledge is crucial for creating sustainable agro-ecosystems of tomorrow, both here and on the Red Planet.
+
+Let's learn, grow, and explore together! 🌱🪐
 
 <figure><img src="https://lh3.googleusercontent.com/proxy/SFP3tSM9750tWvh3JaAeZRP3LY9wECYQVMWh4UQwO1BfErajJqVAY41ssgIWEnEN4SmLKHJF8r6W0DJE5Iabsmau-oSmT4Y2elnlKUIywW0m1vqwJDJZtjTPFn4D-AiTn0vxxYTJdaJpecTvUTh2qjgn61y8tknjcdmERxye4yoJ_5q9FpKWuY-AI3LIWnVEo7CnuEaN3A" alt=""><figcaption></figcaption></figure>
 

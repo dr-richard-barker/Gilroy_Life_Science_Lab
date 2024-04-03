@@ -14,7 +14,7 @@ Science video showing plant response to wounding.&#x20;
 
 ## Calcium waves move through plants as part of a systemic stress signaling system. <a href="#h.p_ssiwl_hrvpxj_l" id="h.p_ssiwl_hrvpxj_l"></a>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Right:** Schematic diagram showing key components required for the propagation of a calcium wave and the role that reactive oxygen species potentially play (Reviewed by Gilroy et al., 2015). Recent work has demonstrated that glutamate-like receptors play an important role in this system and it can be activated by the addition of glutamate (Toyota et al., 2019).
 
