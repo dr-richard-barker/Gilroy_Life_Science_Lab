@@ -24,7 +24,7 @@ Salinity is a critical stress factor affecting plant growth, development, and pr
 
 {% embed url="https://gilroy-qlik.botany.wisc.edu/a/sense/app/8186308d-ae6c-4432-b861-e14224d2c791" %}
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>This document introduces an innovative Qlik application designed for a comprehensive exploration and analysis of the inherent variation in salinity resistance across different Arabidopsis plant varieties. This tool is aimed at researchers, educators, and agriculture professionals seeking in-depth understanding of plant responses to salinity stress.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>This document introduces an innovative Qlik application designed for a comprehensive exploration and analysis of the inherent variation in salinity resistance across different Arabidopsis plant varieties. This tool is aimed at researchers, educators, and agriculture professionals seeking in-depth understanding of plant responses to salinity stress.</p></figcaption></figure>
 
 ### Features
 
@@ -60,7 +60,9 @@ Hey there, budding scientists and Space enthusiasts!
 
 We're super excited to share something amazing with you - a journey to Mars that's been dreamt up with our friends over at Astrobotany.com and Astrolessons.com. 🚀🌿
 
-Wanna be part of this adventure? Launch your student questionnaire here and join us on this epic quest!
+Wanna be part of this adventure? Launch your student questionnaire here and join us on this epic quest! [Using this link](https://docs.google.com/document/d/1WV2zvUh0FNiUhLKRGRZ\_H8ht0pLcWpNZ57QaOqHFaWw/edit)
+
+{% embed url="https://docs.google.com/document/d/1WV2zvUh0FNiUhLKRGRZ_H8ht0pLcWpNZ57QaOqHFaWw/edit" %}
 
 Now, for all you future scientists and agriculturists, we've got something special: a fun and interactive **Soil Salinity Chemistry Class** tailored just for K-12 and undergrad students. It's not just any class; it's a deep dive into what it takes to cultivate life in the most unexpected places - Earth and Mars!
 

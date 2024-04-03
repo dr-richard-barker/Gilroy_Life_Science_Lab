@@ -10,6 +10,9 @@ description: 'Statistical report of test project GeneLab Ecotypes in space:'
 
 Author: Richard Barker
 
+[Variation in the transcriptome of different ecotypes of Arabidopsis thaliana reveals signatures of oxidative stress in plant responses to spaceflight](https://pubmed.ncbi.nlm.nih.gov/30644539)Authors: Choi WG, Barker, Kim SH, Swanson SJ, Gilroy S.PubMed ID: [30644539](https://pubmed.ncbi.nlm.nih.gov/30644539)DOI: [10.1002/ajb2.1223](https://doi.org/10.1002/ajb2.1223)\
+
+
 Date: 2018-08-18
 
 ***
@@ -41,36 +44,7 @@ For more details about the edgeR methodology, please refer to its related public
 
 The count data files and associated biological conditions are listed in the following table.
 
-| SampleLabel         | File                                                | Treatment   | Genotype |
-| ------------------- | --------------------------------------------------- | ----------- | -------- |
-| Col\_SpaceFlight\_1 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | Col      |
-| Col\_SpaceFlight\_2 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | Col      |
-| Col\_SpaceFlight\_3 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | Col      |
-| Col\_SpaceFlight\_4 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | Col      |
-| Col\_Ground\_1      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | Col      |
-| Col\_Ground\_2      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | Col      |
-| Col\_Ground\_3      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | Col      |
-| Col\_Ground\_4      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | Col      |
-| Cvi\_SpaceFlight\_1 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | Cvi      |
-| Cvi\_SpaceFlight\_2 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | Cvi      |
-| Cvi\_SpaceFlight\_3 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | Cvi      |
-| Cvi\_Ground\_1      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | Cvi      |
-| Cvi\_Ground\_2      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | Cvi      |
-| Cvi\_Ground\_3      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | Cvi      |
-| Ler\_SpaceFlight\_1 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | Ler      |
-| Ler\_SpaceFlight\_2 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | Ler      |
-| Ler\_SpaceFlight\_3 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | Ler      |
-| Ler\_Ground\_1      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | Ler      |
-| Ler\_Ground\_2      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | Ler      |
-| Ler\_Ground\_3      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | Ler      |
-| WS2\_SpaceFlight\_1 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | WS2      |
-| WS2\_SpaceFlight\_2 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | WS2      |
-| WS2\_SpaceFlight\_3 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | WS2      |
-| WS2\_SpaceFlight\_4 | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | SpaceFlight | WS2      |
-| WS2\_Ground\_1      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | WS2      |
-| WS2\_Ground\_2      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | WS2      |
-| WS2\_Ground\_3      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | WS2      |
-| WS2\_Ground\_4      | DRB\_RNAseq\_counts\_2018\_Ecotypes\_BRIC19\_v5.txt | Ground      | WS2      |
+<table><thead><tr><th width="130">SampleLabel</th><th width="360">File</th><th>Treatment</th><th>Genotype</th></tr></thead><tbody><tr><td>Col_SpaceFlight_1</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>Col</td></tr><tr><td>Col_SpaceFlight_2</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>Col</td></tr><tr><td>Col_SpaceFlight_3</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>Col</td></tr><tr><td>Col_SpaceFlight_4</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>Col</td></tr><tr><td>Col_Ground_1</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>Col</td></tr><tr><td>Col_Ground_2</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>Col</td></tr><tr><td>Col_Ground_3</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>Col</td></tr><tr><td>Col_Ground_4</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>Col</td></tr><tr><td>Cvi_SpaceFlight_1</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>Cvi</td></tr><tr><td>Cvi_SpaceFlight_2</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>Cvi</td></tr><tr><td>Cvi_SpaceFlight_3</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>Cvi</td></tr><tr><td>Cvi_Ground_1</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>Cvi</td></tr><tr><td>Cvi_Ground_2</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>Cvi</td></tr><tr><td>Cvi_Ground_3</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>Cvi</td></tr><tr><td>Ler_SpaceFlight_1</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>Ler</td></tr><tr><td>Ler_SpaceFlight_2</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>Ler</td></tr><tr><td>Ler_SpaceFlight_3</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>Ler</td></tr><tr><td>Ler_Ground_1</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>Ler</td></tr><tr><td>Ler_Ground_2</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>Ler</td></tr><tr><td>Ler_Ground_3</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>Ler</td></tr><tr><td>WS2_SpaceFlight_1</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>WS2</td></tr><tr><td>WS2_SpaceFlight_2</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>WS2</td></tr><tr><td>WS2_SpaceFlight_3</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>WS2</td></tr><tr><td>WS2_SpaceFlight_4</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>SpaceFlight</td><td>WS2</td></tr><tr><td>WS2_Ground_1</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>WS2</td></tr><tr><td>WS2_Ground_2</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>WS2</td></tr><tr><td>WS2_Ground_3</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>WS2</td></tr><tr><td>WS2_Ground_4</td><td>DRB_RNAseq_counts_2018_Ecotypes_BRIC19_v5.txt</td><td>Ground</td><td>WS2</td></tr></tbody></table>
 
 After loading the data we first have a look at the raw data table itself. The data table contains one row per annotated feature and one column per sequenced sample. Row names of this table are feature IDs (unique identifiers). The table contains raw count values representing the number of reads that map onto the features. For this project, there are 41671 features in the count data table.
 
@@ -99,19 +73,27 @@ Figure 1 shows the total number of mapped reads for each sample. Reads that map 
 * Different rRNA contamination levels between samples (even between biological replicates);
 * Slight differences between library concentrations, since they may be difficult to measure with high precision.
 
-Figure 1: Number of mapped reads per sample. Colors refer to the biological condition of the sample.
+<figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption><p>Figure 1: Number of mapped reads per sample. Colors refer to the biological condition of the sample.</p></figcaption></figure>
+
+
 
 Figure 2 shows the proportion of features with no read count in each sample. We expect this proportion to be similar within conditions. Features with null read counts in the 28 samples will not be taken into account for the analysis with edgeR. Here, 1717 features (4.12%) are in this situation (dashed line).
 
-Figure 2: Proportion of features with null read counts in each sample.
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>Figure 2: Proportion of features with null read counts in each sample.</p></figcaption></figure>
+
+
+
+<figure><img src=".gitbook/assets/image (2).png" alt="" width="563"><figcaption><p>Figure 3: Density distribution of read counts.</p></figcaption></figure>
 
 Figure 3 shows the distribution of read counts for each sample. For sake of readability, \\(\text{log}\_2(\text{counts}+1)\\) are used instead of raw counts. Again we expect replicates to have similar distributions. In addition, this figure shows if read counts are preferably low, medium or high. This depends on the organisms as well as the biological conditions under consideration.
 
-Figure 3: Density distribution of read counts.
 
-It may happen that one or a few features capture a high proportion of reads (up to 20% or more). This phenomenon should not influence the normalization process. The edgeR normalization has proved to be robust to this situation \[Dillies, 2012]. Anyway, we expect these high count features to be the same across replicates. They are not necessarily the same across conditions. Figure 4 illustrate the possible presence of such high count features in the data set.
 
-Figure 4: Percentage of reads associated with the sequence having the highest count (provided in each box on the graph) for each sample.
+It may happen that one or a few features capture a high proportion of reads (up to 20% or more). This phenomenon should not influence the normalization process. The edgeR normalization has proved to be robust to this situation \[Dillies, 2012]. Anyway, we expect these high count features to be the same across replicates. They are not necessarily the same across conditions. Figure 4 illustrate the possible presence of such high-count features in the data set.
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Figure 4: Percentage of reads associated with the sequence having the highest count (provided in each box on the graph) for each sample.</p></figcaption></figure>
+
+
 
 We may wish to assess the similarity between samples across conditions. A pairwise scatter plot is produced (figure 5) to show how replicates and samples from different biological conditions are similar or different (\\(\text{log}\_2(\text{counts}+1)\\) are used instead of raw count values). Moreover, as the Pearson correlation has been shown not to be relevant to measure the similarity between replicates, the SERE statistic has been proposed as a similarity index between RNA-Seq samples \[Schulze, 2012]. It measures whether the variability between samples is random Poisson variability or higher. Pairwise SERE values are printed in the lower triangle of the pairwise scatter plot. The value of the SERE statistic is:
 
@@ -119,7 +101,9 @@ We may wish to assess the similarity between samples across conditions. A pairwi
 * 1 for technical replicates (technical variability follows a Poisson distribution);
 * greater than 1 for biological replicates and samples from different biological conditions (biological variability is higher than technical one, data are over-dispersed with respect to Poisson). The higher the SERE value, the lower the similarity. It is expected to be lower between biological replicates than between samples of different biological conditions. Hence, the SERE statistic can be used to detect inversions between samples.
 
-Figure 5: Pairwise comparison of samples.
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>Figure 5: Pairwise comparison of samples.</p></figcaption></figure>
+
+
 
 ***
 
@@ -133,15 +117,21 @@ edgeR suggests to filter features with null or low counts because they do not su
 
 The main variability within the experiment is expected to come from biological differences between the samples. This can be checked in three ways. The first one is to perform a hierarchical clustering of the whole sample set. This is performed after a transformation of the count data as moderated log-counts-per-million. Figure 6 shows the dendrogram obtained from CPM data. An euclidean distance is computed between samples, and the dendrogram is built upon the Ward criterion. We expect this dendrogram to group replicates and separate biological conditions.
 
-Figure 6: Sample clustering based on normalized data.
+<figure><img src=".gitbook/assets/image (5).png" alt="" width="563"><figcaption><p>Figure 6: Sample clustering based on normalized data.</p></figcaption></figure>
+
+
 
 The second method of visaulizing the experiment variability is to look at the heatmaps of the two conditions as show on figure 7. On this figure the x-axis represents the two conditions (along with the replicates) and the y-axis represent the top 20 genes with the top variance over all samples.
 
-Figure 7: Heatmap based on normalized data.
+<figure><img src=".gitbook/assets/image (7).png" alt="" width="563"><figcaption><p>Figure 7: Heatmap based on normalized data.</p></figcaption></figure>
+
+
 
 Another way of visualizing the experiment variability is to look at the first two dimensions of a multidimensional scaling plot, as shown on figure 8. On this figure, the first dimension is expected to separate samples from the different biological conditions, meaning that the biological variability is the main source of variance in the data.
 
-Figure 8: Multidimensional scaling plot of the samples.
+<figure><img src=".gitbook/assets/image (8).png" alt="" width="563"><figcaption><p>Figure 8: Multidimensional scaling plot of the samples.</p></figcaption></figure>
+
+
 
 ***
 
@@ -157,7 +147,9 @@ edgeR computes a factor for each sample. These normalization factors apply to th
 
 Boxplots are often used to assess the quality of the normalization process, as they show how distributions are globally affected during this process. We expect normalization to stabilize distributions across samples. Figure 9 shows boxplots of raw (left) and normalized (right) data respectively.
 
-Figure 9: Boxplots of raw (left) and normalized (right) read counts.
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>Figure 9: Boxplots of raw (left) and normalized (right) read counts.</p></figcaption></figure>
+
+
 
 ***
 
@@ -171,7 +163,7 @@ edgeR aims at fitting one linear model per feature. For this project, the design
 
 The edgeR model assumes that the count data follow a negative binomial distribution which is a robust alternative to the Poisson law when data are over-dispersed (the variance is higher than the mean). The first step of the statistical procedure is to estimate the dispersion of the data.
 
-Figure 10: Dispersion estimates.
+<figure><img src=".gitbook/assets/image (10).png" alt="" width="563"><figcaption><p>Figure 10: Dispersion estimates.</p></figcaption></figure>
 
 Figure 10 shows the result of the dispersion estimation step. The x- and y-axes represent the mean count value and the estimated dispersion respectively. Black dots represent empirical dispersion estimates for each feature (from the observed count values). The blue curve shows the relationship between the means of the counts and the dispersions modeled with splines. The red segment represents the common dispersion.
 
@@ -179,19 +171,23 @@ Figure 10 shows the result of the dispersion estimation step. The x- and y-axes 
 
 Once the dispersion estimation and the model fitting have been done, edgeR can perform the statistical testing. Figure 11 shows the distributions of raw p-values computed by the statistical test for the comparison(s) done. This distribution is expected to be a mixture of a uniform distribution on \\(\[0,1]\\) and a peak around 0 corresponding to the differentially expressed features.
 
-Figure 11: Distribution(s) of raw p-values.
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>Figure 11: Distribution(s) of raw p-values.</p></figcaption></figure>
+
+
 
 #### 6.4 Final results
 
 A p-value adjustment is performed to take into account multiple testing and control the false positive rate to a chosen level \\(\alpha\\). For this analysis, a BH p-value adjustment was performed \[Benjamini, 1995 and 2001] and the level of controlled false positive rate was set to 0.05.
 
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>Figure 12: MA-plot(s) of each comparison. Red dots represent significantly differentially expressed features.</p></figcaption></figure>
+
 Figure 12 represents the MA-plot of the data for the comparisons done, where differentially expressed features are highlighted in red. A MA-plot represents the log ratio of differential expression as a function of the mean intensity for each feature. Triangles correspond to features having a too low/high \\(\log\_2(\text{FC})\\) to be displayed on the plot.
 
-Figure 12: MA-plot(s) of each comparison. Red dots represent significantly differentially expressed features.
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption><p>Figure 13: Volcano plot(s) of each comparison. Red dots represent significantly differentially expressed features.</p></figcaption></figure>
 
 Figure 13 shows the volcano plots for the comparisons performed and differentially expressed features are still highlighted in red. A volcano plot represents the log of the adjusted P value as a function of the log ratio of differential expression.
 
-Figure 13: Volcano plot(s) of each comparison. Red dots represent significantly differentially expressed features.
+
 
 Full results as well as lists of differentially expressed features are provided in the following text files which can be easily read in a spreadsheet. For each comparison:
 
