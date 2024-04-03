@@ -16,48 +16,44 @@ We are interested in how plants sense and respond to their environment and how t
 4. How do plants respond to the spaceflight environment?
 
 {% embed url="https://youtu.be/7-3yFcZSyvo" %}
-
-**Above:** Arabidopsis plant having its long distance systemic signaling system being activated by addition of the neurotransmitter glutamate.
-
-### Targeting Improved Cotton through Orbital Cultivation (TIC-TOC) <a href="#h.9esm31cu8j2t_l" id="h.9esm31cu8j2t_l"></a>
-
-## TIC-TOC Mission: Launching New Horizons in Plant Science
-
-The TIC-TOC launch took place aboard the SpaceX Dragon during its 22nd Crew Resupply Mission to the International Space Station (ISS). The focus of the TIC-TOC mission is a pioneering technology demonstration involving GMO AVP-OX. This innovative approach aims to uncover novel mechanisms for enhancing plant resistance to two significant stress factors: drought and salinity. Understanding these mechanisms is crucial for advancing our agricultural practices and ensuring food security in the face of changing environmental conditions.
-
-{% embed url="https://youtu.be/RlzgLpQY6mQ" %}
-
-Plants are subjected to a wide array of stresses throughout their lifecycle, including but not limited to mechanical injuries, attacks by herbivores, microbial infections, extreme temperatures, inadequate or excessive water, atmospheric gases, uneven light exposure, and ionizing radiation. These stress factors can severely impact plant growth, development, and yield.
-
-The GMO AVP-OX technology holds the potential to revolutionize our approach to managing plant stress, particularly by mitigating the effects of drought and salinity. If successful, this demonstration could pave the way for developing crops that are more resilient to these stressors, thereby enhancing agricultural productivity and sustainability in an increasingly challenging global environment.
+Arabidopsis plant having its long distance systemic signaling system being activated by addition of the neurotransmitter glutamate.
+{% endembed %}
 
 
+
+#### Understanding the Role of Calcium Waves in Plant Defense Mechanisms
+
+The significance of recognizing that calcium waves act as a fundamental signal in response to a wide variety of environmental stimuli cannot be overstated. This revelation not only deepens our comprehension of plant defense strategies but also paves the way for further exploration into the intricate signal transduction pathways that regulate plant reactions to environmental stress.
+
+Recent scientific studies have shed light on the sophisticated signaling systems within _Arabidopsis_ plants, with a particular focus on the neurotransmitter glutamate's role in systemic long-distance signaling. It has been observed that introducing glutamate to these plants initiates an extensive activation of their systemic signaling pathways. This has been demonstrated through the use of advanced fluorescence time-lapse photography, showcasing _Arabidopsis_ plants’ responses to physical injury and revealing the transmission of a long-distance calcium wave throughout the plant. This crucial signal is instrumental in activating the jasmonic acid signaling pathway, which in turn triggers a series of systemic defense mechanisms intended to safeguard the plant against further damage.
+
+### &#x20;<a href="#h.9esm31cu8j2t_l" id="h.9esm31cu8j2t_l"></a>
 
 ### APEX5: can we engineer plants that don't feel "pain"? <a href="#h.p_t-qfrspgtkaq_l" id="h.p_t-qfrspgtkaq_l"></a>
 
 {% embed url="https://youtu.be/Fd7SIrV2bOo" %}
 
-The Gilroy lab uses molecular analysis of _Arabidopsis_ plants with altered genes to in order to investigate their function. A combination of a plant's environment and genetics creates what we call the plant's "phenotype". Some genes make plants more sensitive to environmental stress and others make plants more resilient. The TOAST database allows citizen scientists to find genes that respond to spaceflight, among other stimuli.
+## Investigative Insights on Plant Gene Responses to Hypoxia and Spaceflight by The Gilroy Lab
 
-### Plants are an essential part of a bioregenerative life support system <a href="#h.p_08j3ufrx51y6_l" id="h.p_08j3ufrx51y6_l"></a>
+The innovative utilization of the TOAST database marks a significant leap in collaborative research efforts, particularly by fostering citizen scientists' engagement in the exploration of gene reactions to diverse conditions, including the unique challenges posed by spaceflight. This approach significantly propels the Gilroy Lab's mission to deepen our comprehension of plant genetics and their environmental interactions.
 
-{% embed url="https://youtu.be/XVbOOMCjktA" %}
+Our current endeavors are dedicated to elucidating the initial triggers and mechanisms that govern plant responses to diminished oxygen levels. By integrating advanced computer-based imaging with molecular genetics, we aim to delineate the spatial and temporal interplay between low oxygen conditions and pivotal signaling pathways such as calcium ions (Ca2+), pH levels, reactive oxygen species (ROS), and ATP/ADP.
 
-**Above Video:** Astronauts Scott Kelly, Kjell Lindgren, and Kimiya Yui all munched on red romaine lettuce this afternoon, except unlike your sad desk salad, this produce was grown on the International Space Station. It was the first time people have eaten food cultivated in space. Aug 10, 2015 the birth of the first ever Space-Farmers. Video courtesy of UW-Madison.
+Furthermore, leveraging bioinformatics and transcriptional profiling, we focus on identifying mutants with enhanced resistance to anoxia. Interestingly, the genes spotlighted through our research are also key players in mitigating other agricultural stressors, including pathogenic infections and saline accumulation.
 
-### What is the most stressful factor that life encounters living in low earth orbit on the ISS? <a href="#h.p_6zq6xfh83b8q_l" id="h.p_6zq6xfh83b8q_l"></a>
+Survival under such stress conditions mandates a sophisticated integration of oxygen sensing capabilities with a swift response machinery. This synergy is crucial for managing the impending cellular energy crisis and activating necessary adaptive growth strategies for sustained survival. Notwithstanding several exceptions, our grasp of this intricate sensory/response system, particularly at the cellular signaling level, remains incomplete.
 
-\
-\
+One notable abiotic stressor, the reduction in oxygen availability from various sources, significantly impacts plant survivability. The sources of hypoxia can range from dense tissue metabolic activities to external environmental conditions like soil compaction, flooding, ice encasement, or waterlogging due to agricultural practices.
+
+Specializing in molecular techniques applied on genetically modified _Arabidopsis_ plants, the Gilroy Lab endeavors to decode the roles of specific genes through phenotype observations—reflecting the gene-environment interplay. Identifying genes that either heighten sensitivity or confer resilience to environmental stresses remains a focal point of our research.
+
+Through these multifaceted approaches, the Gilroy Lab aspires to contribute significantly to the understanding and improvement of plant resilience to hypoxia and spaceflight-induced stresses, thereby enhancing agricultural productivity and sustainability.
 
 
-**Right Video:** Time-lapse photography of astronaut Scott Tingle harvesting _Arabidopsis thaliana_ samples on the International Space Station (ISS) as part of the Gilroy APEX05 experiment. Video courtesy of NASA.
 
 
 
-We've been working with NASA GeneLab and [Wisconsin Space Grant Consortium to make life science data accessible to teachers and citizen scientists](https://www.google.com/url?q=https%3A%2F%2Fspacebiology.carthage.edu%2Fgrade-6-12-educators\&sa=D\&sntz=1\&usg=AOvVaw1oAHRsf8VsXWklQu3ATS0-). This work was made possible by collaborators at the NSF CyVerse Cloud Computing infrastructure, the JPL interplanetary protection team, the European Bioinformatics Institute (EBI) and Qlik. The AstroBotany team's international presence has grown linking researchers, educators and students in the US, Japan and the UK. Our goal is to use the excitement of space exploration to train the next generation of citizen scientist to tackle any challenges that may arise in the future. If you're interested in developing instructional material we recommend checking out this [guide from the data carpentry community](https://www.google.com/url?q=https%3A%2F%2Fcarpentries.github.io%2Finstructor-training%2F15-lesson-study%2Findex.html\&sa=D\&sntz=1\&usg=AOvVaw1QOJB3uPl1ps2U0-freRtq) and study the [CyVerse cloud](https://www.google.com/url?q=https%3A%2F%2Flearning.cyverse.org%2Fen%2Flatest%2F\&sa=D\&sntz=1\&usg=AOvVaw3b8nvcDjjJjpQTOFUgTjap) resources.
 
-<figure><img src="https://lh4.googleusercontent.com/proxy/FcWjXTY4juHeK-6vpiaSRWC-6DVFXXRRTHSbF3lelYJtWiqw9hYxcx1u2fj7ViBOFsNbnWwioFqGUrSjXN2QmsPX" alt=""><figcaption></figcaption></figure>
 
-[SPACEX - ISS Docking SimulatorThis simulator will familiarize you with the controls of the actual interface used by NASA Astronauts to manually pilot the SpaceX Dragon 2 vehicle to the International Space Station.](https://www.google.com/url?q=https%3A%2F%2Fiss-sim.spacex.com%2F\&sa=D\&sntz=1\&usg=AOvVaw0DPJz8-zqrKop3jnrqRPAl)
+
 

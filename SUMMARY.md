@@ -2,8 +2,9 @@
 
 * [Gilroy Life Science Lab](README.md)
 * [Gravity and mechanical sensing in plants](gravity-and-mechanical-sensing-in-plants.md)
-* [Targeting Improved Cotton Through Orbital Cultivation (TIC TOC)](tictoc-r-markdown-v3.md)
+* [Targeting Improved Cotton through Orbital Cultivation (TIC TOC)](tictoc-r-markdown-v3.md)
 * [Reproducing APEX05 iDEP linear model analyses with R Markdown](reproducing-apex05-idep-linear-model-analyses-with-r-markdown.md)
+* [Plants in Bioregenerative Life Support Systems](plants-in-bioregenerative-life-support-systems.md)
 * [There is natural diversity in sensitivity to salt (NaCl)](there-is-natural-diversity-in-sensitivity-to-salt-nacl.md)
 * [TOAST links AstroBotany experiments into an interactive relation data exploration ecosystem](toast-links-astrobotany-experiments-into-an-interactive-relation-data-exploration-ecosystem.md)
 * [X-species multi-omics transcriptional navigator](x-species-multi-omics-transcriptional-navigator.md)
@@ -13,3 +14,5 @@
 * [Statistical report (FL vs GC) BRIC19 OSD-37](statistical-report-fl-vs-gc-bric19-osd-37.md)
 * [Kids in Data](kids-in-data.md)
 * [MANGO](mango.md)
+* [Plant response to wounding](plant-response-to-wounding.md)
+* [Project MANGO](project-mango.md)
