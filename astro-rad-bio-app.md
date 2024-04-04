@@ -34,17 +34,7 @@ For more detailed data, contact SRAG, through GeneLab ([https://genelab.nasa.gov
 
 ### [Launch "RadBioApp" into a new tab](https://gilroy-qlik.botany.wisc.edu/a/sense/app/99bd16d8-95d7-42d8-8ff4-c511eda7404a/overview). <a href="#h.cuvylcgb5bu_l" id="h.cuvylcgb5bu_l"></a>
 
-\
-
-
-<figure><img src="https://lh4.googleusercontent.com/proxy/s05MLEUX_7AfoP_VF1b4u43eoIUynlCgRNfH7fw0Fn1-7CiiC6iPxkCDRVhV_m2sqPdzY8oeVM3GEat_U356BXaIvjhYOhLtK13n36dsX3jG1geZJ9Icbmdiw3sUNNjZpqAOEPT4Fax2qlqy5QXrNNdUgRjdfx82YhxRRC85cUHmXO8ONK525mCw61dIhFtSfUIwdOjl7goKTpku4BjlltbAMw" alt=""><figcaption></figcaption></figure>
-
-
-
-\
-
-
-## Background radiation on the Earth is different from intergalactic cosmic rays (GCR) and solarwinds. <a href="#h.p_tyzl_adcqwta_l" id="h.p_tyzl_adcqwta_l"></a>
+## Background radiation on the Earth is different from intergalactic cosmic rays (GCR) and solar winds. <a href="#h.p_tyzl_adcqwta_l" id="h.p_tyzl_adcqwta_l"></a>
 
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>uRADMoniter provides real time monitoring of background radiation at a range of sites around the Earth.</p></figcaption></figure>
 
