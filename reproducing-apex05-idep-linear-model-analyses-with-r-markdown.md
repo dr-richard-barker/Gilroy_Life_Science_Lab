@@ -14,11 +14,21 @@ Plant roots on earth grow down toward the gravity vector.
 
 {% embed url="https://www.youtube.com/shorts/RF3gB46DWQc" %}
 
-The samples were retrieved from Earth, followed by the extraction of RNA. Subsequently, the RNA fragments were aligned with the Arabidopsis TAIR10 genome, employing the NF\_core\_RNAseq pipelines.
+Samples were placed into Kennedy Fixation Tubes.
+
+### &#x20;<a href="#h.p_6zq6xfh83b8q_l" id="h.p_6zq6xfh83b8q_l"></a>
+
+{% embed url="https://youtu.be/mpT3FWeafBg" %}
+Time-lapse photography of astronaut Scott Tingle harvesting _Arabidopsis thaliana_ samples on the International Space Station (ISS) as part of the Gilroy APEX05 experiment. Video courtesy of NASA.
+{% endembed %}
+
+
+
+The samples were retrieved from Earth, followed by the extraction of RNA using the [Spectrum™ Plant Total RNA Kit.](https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/genomics/dna-and-rna-purification/spectrum-plant-total-rna-kit?utm\_source=google\&utm\_medium=cpc\&utm\_campaign=21043330280\&utm\_content=\&gclid=Cj0KCQjwn7mwBhCiARIsAGoxjaIlK9x-gl1vczdw24EibFEmTrlX2RtMiq2EbIH2Sn0dcY0ZAMAkeekaAoJPEALw\_wcB) Subsequently, the RNA fragments were aligned with the Arabidopsis TAIR10 genome, employing the NF\_core\_RNAseq pipelines.
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>This analysis pipeline produced a "counts file"</p></figcaption></figure>
 
-### 1. Read data
+### 1. Read counts data
 
 First we set up the working directory to where the files are saved and imported the counts from the nf-core RNAseq pipeline.
 

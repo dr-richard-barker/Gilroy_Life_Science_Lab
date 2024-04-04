@@ -25,14 +25,7 @@ Plants are crucial in bioregenerative life support systems (BLSS) for sustainabl
 * **Resource Utilization:** Precise management of water and nutrients is crucial.
 * **Crop Selection:** Selecting high-yielding, nutritious, space-efficient plants is essential.
 
-### What is the most stressful factor that life encounters living in low earth orbit on the ISS? <a href="#h.p_6zq6xfh83b8q_l" id="h.p_6zq6xfh83b8q_l"></a>
-
-{% embed url="https://youtu.be/mpT3FWeafBg" %}
-Time-lapse photography of astronaut Scott Tingle harvesting _Arabidopsis thaliana_ samples on the International Space Station (ISS) as part of the Gilroy APEX05 experiment. Video courtesy of NASA.
-{% endembed %}
-
-\
-
+### What is the most stressful factor that life encounters living in low earth orbit on the ISS?  <a href="#h.p_6zq6xfh83b8q_l" id="h.p_6zq6xfh83b8q_l"></a>
 
 We've been working with NASA GeneLab and [Wisconsin Space Grant Consortium to make life science data accessible to teachers and citizen scientists](https://www.google.com/url?q=https%3A%2F%2Fspacebiology.carthage.edu%2Fgrade-6-12-educators\&sa=D\&sntz=1\&usg=AOvVaw1oAHRsf8VsXWklQu3ATS0-). This work was made possible by collaborators at the NSF CyVerse Cloud Computing infrastructure, the JPL interplanetary protection team, the European Bioinformatics Institute (EBI) and Qlik. The AstroBotany team's international presence has grown linking researchers, educators and students in the US, Japan and the UK. Our goal is to use the excitement of space exploration to train the next generation of citizen scientist to tackle any challenges that may arise in the future. If you're interested in developing instructional material we recommend checking out this [guide from the data carpentry community](https://www.google.com/url?q=https%3A%2F%2Fcarpentries.github.io%2Finstructor-training%2F15-lesson-study%2Findex.html\&sa=D\&sntz=1\&usg=AOvVaw1QOJB3uPl1ps2U0-freRtq) and study the [CyVerse cloud](https://www.google.com/url?q=https%3A%2F%2Flearning.cyverse.org%2Fen%2Flatest%2F\&sa=D\&sntz=1\&usg=AOvVaw3b8nvcDjjJjpQTOFUgTjap) resources.
 
