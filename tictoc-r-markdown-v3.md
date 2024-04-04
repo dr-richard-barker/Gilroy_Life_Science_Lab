@@ -20,7 +20,7 @@ Supported by CASIS UA-2018-276.
 
 ### Introduction
 
-The TIC-TOC mission, launched aboard the SpaceX Dragon during its 22nd Crew Resupply Mission to the International Space Station (ISS), represents a significant advancement in agricultural sciences and plant biology. This mission centers around a cutting-edge technology demonstration of the genetically modified organism (GMO) AVP-OX, aimed at uncovering new methodologies for improving plant resilience against two critical environmental stressors: drought and salinity.
+TIC-TOC (Targeting Improved Cotton Through Orbital Cultivation) is a project by the University of Wisconsin–Madison's Gilroy Life Science Lab that compares cotton grown in space to cotton grown on Earth. The lab's research focuses on how plants sense and respond to their environment, and how these signals regulate plant development. The lab uses advanced microscopy techniques, biochemistry, and molecular biology to address biological questions like how plants respond to spaceflight. The TIC-TOC mission, launched aboard the SpaceX Dragon during its 22nd Crew Resupply Mission to the International Space Station (ISS), represents a significant advancement in agricultural sciences and plant biology. This mission centers around a cutting-edge technology demonstration of the genetically modified organism (GMO) AVP-OX, aimed at uncovering new methodologies for improving plant resilience against two critical environmental stressors: drought and salinity.&#x20;
 
 ### Objective
 
@@ -28,41 +28,35 @@ The primary goal of this mission is to explore and understand the underlying mec
 
 ### Research Approach
 
-The Gilroy laboratory has been at the forefront of this research, focusing on the investigation of plant responses to environmental cues and developmental processes. By employing molecular analyses on Arabidopsis plants, specifically those with altered gene expressions, the lab aims to dissect the complex biological functions of plants.
+The Gilroy laboratory has been at the forefront of this research, focusing on the investigation of plant responses to environmental cues and developmental processes. The TIC-TOC project investigates how conventional and genetically modified cotton grow in microgravity. This innovative approach focuses on comparing the growth patterns of both wild type and AVP-OX cotton in space. The rationale behind this approach lies in the hypothesis that the absence of gravity would unmask genetic factors critical to cultivating resilient cotton variants on Earth. The ISS National Laboratory provided us with a unique opportunity to ask: (1) what are the drivers for cotton root system development and function in the absence of the confounding influence of gravity, and (2) does AVP1 overexpression lead to resistance to the stresses of the spaceflight environment.&#x20;
 
-Within the framework of the TIC-TOC project, or Targeting Improved Cotton through Orbital Cultivation, an innovative approach was adopted. The project examined the growth patterns of conventional cotton versus genetically modified cotton in the microgravity environment of space. The rationale behind this approach lies in the hypothesis that the absence of gravity would unmask genetic factors critical to cultivating resilient cotton variants on Earth.
-
-### Potential Impact
-
-The GMO AVP-OX technology harbors the promise of revolutionizing how plant stress is managed, particularly focusing on mitigating the impact of drought and salinity. A successful demonstration could lead to the development of crop varieties that are better equipped to withstand these environmental stressors, thus significantly improving agricultural productivity and sustainability worldwide.
-
-### Conclusion
-
-Plants encounter numerous stress factors throughout their life cycle, ranging from mechanical injuries and microbial infections to extreme climatic conditions. These stresses can profoundly affect plant growth, development, and yield. By exploring innovative technologies such as the GMO AVP-OX and conducting space-based experiments, we move closer to developing resilient agricultural systems capable of supporting global food security in the face of environmental challenges.
-
-### This video summarizes the results as part of the  Space Agriculture conferance (2023).
+### This video summarizes the results as part of the  Space Agriculture Conference (2023).
 
 {% embed url="https://youtu.be/BYTGcVVV4t4?si=0P5xZKDzKEoUvjst" %}
 
-### More information on flight experiment coming soon...
-
-TIC-TOC (Targeting Improved Cotton Through Orbital Cultivation) is a project by the University of Wisconsin–Madison's Gilroy Life Science Lab that compares cotton grown in space to cotton grown on Earth. The lab's research focuses on how plants sense and respond to their environment, and how these signals regulate plant development. The lab uses advanced microscopy techniques, biochemistry, and molecular biology to address biological questions like how plants respond to spaceflight.
+**Result:** Analysis of root system architecture and growth kinetics indicate that the AVP1-OX lines grew larger roots when compared to the wild type in flight and to all of the ground controls, including the AVP1-OX lines themselves. Biochemical analyses of these plants also suggest they experienced reduced oxidative stress and maintained photosynthetic pigment levels.
 
 
 
-Method/Experiment: The ISS National Laboratory provided us with a unique opportunity to ask: (1) what are the drivers for cotton root system development and function in the absence of the confounding influence of gravity, and (2) does AVP1 overexpression lead to resistance to the stresses of the spaceflight environment.&#x20;
+### Conclusion
 
-Result: Analysis of root system architecture and growth kinetics indicate that the AVP1-OX lines grew larger roots when compared to the wild type in flight and to all of the ground controls, including the AVP1-OX lines themselves. Biochemical analyses of these plants also suggest they experienced reduced oxidative stress and maintained photosynthetic pigment levels.
+The advent of GMO AVP-OX technology marks a significant milestone in the field of agricultural innovation, geared towards the development of sturdier plants capable of thriving under the harsh conditions anticipated in future astro-agroecosystems. By utilizing RNAseq analysis, scientists are now able to unravel the cellular and molecular dynamics that enable these plants to withstand various stress factors, including mechanical damage, pathogens, and extreme weather events. This insight is crucial for understanding the resilience mechanisms at play, offering a clearer path toward enhancing plant growth, development, and yield in the face of adversity.
 
-Conclusion, ongoing and future work: AVP-OX can be used as a tool to engineer larger more stress-resistant plants for future astro-agroecosystems. RNAseq analysis of these plants is now being used to provide insight into possible cellular and molecular mechanisms regulating these physiological responses.&#x20;
+GMO AVP-OX technology heralds a new era in agriculture, promising to address some of the most pressing challenges like drought and soil salinity that currently threaten global food security. By pioneering plants that are better equipped to handle environmental stressors, this innovation has the potential to significantly boost agricultural productivity and sustainability worldwide. The initiative not only aims at mitigating the detrimental impacts of these stresses but also at revolutionizing the management of plant stress, providing a hopeful outlook for the future of global food production amidst escalating environmental challenges.
 
-
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Below: "TICTOC R Markdown v3" file was generated by Dr Richard Barker to provide insight into Cotton's response to space flight.
 
+
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+The count's file produced by the NF\_Core RNAseq analysis pipeline was then analyzed with these R codes to help us understand how Cotton plants and plants expressing AVP-ox respond to the space flight environment.&#x20;
+
 ### 1. Read data
 
-First we set up the working directory to where the files are saved.
+First we set up the working directory to where the files are saved. These files can be found in this github repo.&#x20;
 
 ```
 setwd('/Users/drbhomeoffice/Downloads/TICTOC_3_factor_model')   # Needs to be changed  

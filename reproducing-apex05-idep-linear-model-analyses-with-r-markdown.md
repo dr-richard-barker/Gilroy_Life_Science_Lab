@@ -16,7 +16,7 @@ Plant roots on earth grow down toward the gravity vector.
 
 The samples were retrieved from Earth, followed by the extraction of RNA. Subsequently, the RNA fragments were aligned with the Arabidopsis TAIR10 genome, employing the NF\_core\_RNAseq pipelines.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>This analysis pipeline produced a "counts file"</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>This analysis pipeline produced a "counts file"</p></figcaption></figure>
 
 ### 1. Read data
 
