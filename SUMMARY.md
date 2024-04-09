@@ -15,4 +15,4 @@
 * [Project MANGO](project-mango.md)
 * [Kids in Data](kids-in-data.md)
 * [Machine learning with the NASA Open Science Data Archive](machine-learning-with-the-nasa-open-science-data-archive.md)
-* [Prompt engineering description of RPM function](prompt-engineering-description-of-rpm-function.md)
+* [Joke: Prompt engineering description of RPM function](prompt-engineering-description-of-rpm-function.md)
