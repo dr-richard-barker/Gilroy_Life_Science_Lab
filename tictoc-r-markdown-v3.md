@@ -44,11 +44,11 @@ The advent of GMO AVP-OX technology marks a significant milestone in the field o
 
 GMO AVP-OX technology heralds a new era in agriculture, promising to address some of the most pressing challenges like drought and soil salinity that currently threaten global food security. By pioneering plants that are better equipped to handle environmental stressors, this innovation has the potential to significantly boost agricultural productivity and sustainability worldwide. The initiative not only aims at mitigating the detrimental impacts of these stresses but also at revolutionizing the management of plant stress, providing a hopeful outlook for the future of global food production amidst escalating environmental challenges.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>TIC TOC mission patch.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>TIC TOC mission patch.</p></figcaption></figure>
 
 
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>NF_core RNAseq pipeline: <a href="https://github.com/nf-core/rnaseq">https://github.com/nf-core/rnaseq</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>NF_core RNAseq pipeline: <a href="https://github.com/nf-core/rnaseq">https://github.com/nf-core/rnaseq</a></p></figcaption></figure>
 
 The count's file produced by the NF\_Core RNAseq analysis pipeline was then analyzed with these R codes to help us understand how Cotton plants and plants expressing AVP-ox respond to the space flight environment.&#x20;
 

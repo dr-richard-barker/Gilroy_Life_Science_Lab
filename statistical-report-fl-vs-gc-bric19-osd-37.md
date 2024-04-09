@@ -79,11 +79,11 @@ Figure 1 shows the total number of mapped reads for each sample. Reads that map 
 
 Figure 2 shows the proportion of features with no read count in each sample. We expect this proportion to be similar within conditions. Features with null read counts in the 28 samples will not be taken into account for the analysis with edgeR. Here, 1717 features (4.12%) are in this situation (dashed line).
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 2: Proportion of features with null read counts in each sample.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 2: Proportion of features with null read counts in each sample.</p></figcaption></figure>
 
 
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption><p>Figure 3: Density distribution of read counts.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 3: Density distribution of read counts.</p></figcaption></figure>
 
 Figure 3 shows the distribution of read counts for each sample. For sake of readability, \\(\text{log}\_2(\text{counts}+1)\\) are used instead of raw counts. Again we expect replicates to have similar distributions. In addition, this figure shows if read counts are preferably low, medium or high. This depends on the organisms as well as the biological conditions under consideration.
 
@@ -91,7 +91,7 @@ Figure 3 shows the distribution of read counts for each sample. For sake of read
 
 It may happen that one or a few features capture a high proportion of reads (up to 20% or more). This phenomenon should not influence the normalization process. The edgeR normalization has proved to be robust to this situation \[Dillies, 2012]. Anyway, we expect these high count features to be the same across replicates. They are not necessarily the same across conditions. Figure 4 illustrate the possible presence of such high-count features in the data set.
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Figure 4: Percentage of reads associated with the sequence having the highest count (provided in each box on the graph) for each sample.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Figure 4: Percentage of reads associated with the sequence having the highest count (provided in each box on the graph) for each sample.</p></figcaption></figure>
 
 
 
