@@ -6,15 +6,15 @@ description: >-
 
 # X-species multi-omics transcriptional navigator
 
-{% embed url="https://youtu.be/XBNtAGW3q3o" %}
-&#x20;What's your favorite AstroBotany gene survey?
-{% endembed %}
+[Open the multi species data visualization in a new tab](https://gilroy-qlik.botany.wisc.edu/a/sense/app/2f5102bc-6120-44c8-b0dd-d5168fa4eee1/sheet/e4b5743b-897e-44ee-866b-d448259a32f7/state/analysis)
 
 {% embed url="https://gilroy-qlik.botany.wisc.edu/a/sense/app/2f5102bc-6120-44c8-b0dd-d5168fa4eee1/sheet/e4b5743b-897e-44ee-866b-d448259a32f7/state/analysis" %}
 Open the X-Kingdom multispecies OSDR visualison tool in the brouwser.&#x20;
 {% endembed %}
 
-[Open the multi species data visualization in a new tab](https://gilroy-qlik.botany.wisc.edu/a/sense/app/2f5102bc-6120-44c8-b0dd-d5168fa4eee1/sheet/e4b5743b-897e-44ee-866b-d448259a32f7/state/analysis)
+{% embed url="https://youtu.be/XBNtAGW3q3o" %}
+&#x20;What's your favorite AstroBotany gene survey?
+{% endembed %}
 
 &#x20;
 

@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Gilroy Life Science Lab](README.md)
+* [X-species multi-omics transcriptional navigator](x-species-multi-omics-transcriptional-navigator.md)
 * [Gravity and mechanical sensing in plants](gravity-and-mechanical-sensing-in-plants.md)
 * [Targeting Improved Cotton through Orbital Cultivation (TIC TOC)](tictoc-r-markdown-v3.md)
 * [Reproducing APEX05 iDEP linear model analyses with R Markdown](reproducing-apex05-idep-linear-model-analyses-with-r-markdown.md)
 * [Plants in Bioregenerative Life Support Systems](plants-in-bioregenerative-life-support-systems.md)
 * [There is natural diversity in sensitivity to salt (NaCl)](there-is-natural-diversity-in-sensitivity-to-salt-nacl.md)
 * [TOAST: interactive relational database](toast-links-astrobotany-experiments-into-an-interactive-relation-data-exploration-ecosystem.md)
-* [X-species multi-omics transcriptional navigator](x-species-multi-omics-transcriptional-navigator.md)
 * [Astro-Rad-Bio-App](astro-rad-bio-app.md)
 * [Root system and gravitropism data for wild type and A68 AVP-ox Cotton.](root-system-architecture-and-gravitropism-analysis-of-wild-type-and-a68-cotton.md)
 * [Plant response to wounding](plant-response-to-wounding.md)
