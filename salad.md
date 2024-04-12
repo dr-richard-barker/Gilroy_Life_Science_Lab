@@ -1,0 +1,13 @@
+---
+description: Link to the SALAD database more insights coming soon.
+---
+
+# SALAD
+
+
+
+{% embed url="https://app.saladproject.org/home" %}
+
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption><p>The SALAD database</p></figcaption></figure>

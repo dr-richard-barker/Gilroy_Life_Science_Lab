@@ -6,19 +6,29 @@ description: >-
 
 # X-species multi-omics transcriptional navigator
 
-[Open the multi species data visualization in a new tab](https://gilroy-qlik.botany.wisc.edu/a/sense/app/2f5102bc-6120-44c8-b0dd-d5168fa4eee1/sheet/e4b5743b-897e-44ee-866b-d448259a32f7/state/analysis)
-
-{% embed url="https://gilroy-qlik.botany.wisc.edu/a/sense/app/2f5102bc-6120-44c8-b0dd-d5168fa4eee1/sheet/e4b5743b-897e-44ee-866b-d448259a32f7/state/analysis" %}
-Open the X-Kingdom multispecies OSDR visualison tool in the brouwser.&#x20;
+{% embed url="https://gilroy-qlik.botany.wisc.edu/a/sense/app/ab2250b5-ee3a-4da8-b5da-fe87d5f2dbe6/overview" %}
+Open the X-kingdom explorer&#x20;
 {% endembed %}
+
+&#x20;Launching this Qlik sense app will provide a menu of studies that have data dashboard summaries.
+
+
+
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption><p>This metadata summary application can help you find related studies and summarize their metadata.</p></figcaption></figure>
+
+[Open the metadata visualization in a new tab](https://gilroy-qlik.botany.wisc.edu/a/sense/app/2f5102bc-6120-44c8-b0dd-d5168fa4eee1/sheet/e4b5743b-897e-44ee-866b-d448259a32f7/state/analysis)
+
+## &#x20;<a href="#h.evs6ucmv320d_l" id="h.evs6ucmv320d_l"></a>
+
+## Students, teachers and researchers to share their insights with each other. <a href="#h.evs6ucmv320d_l" id="h.evs6ucmv320d_l"></a>
 
 {% embed url="https://youtu.be/XBNtAGW3q3o" %}
 &#x20;What's your favorite AstroBotany gene survey?
 {% endembed %}
-
-&#x20;
-
-## Students, teachers and researchers to share their insights with each other. <a href="#h.evs6ucmv320d_l" id="h.evs6ucmv320d_l"></a>
 
 [Try to answer the question in the TOAST AstroBotany Epicollect5 Citizen science project.](https://www.google.com/url?q=https%3A%2F%2Ffive.epicollect.net%2Fproject%2Ftoast-astrobotany-multiomics-genelab%2Fdata\&sa=D\&sntz=1\&usg=AOvVaw1eIhnaXi1cNQS1RQS3LMqC)
 
