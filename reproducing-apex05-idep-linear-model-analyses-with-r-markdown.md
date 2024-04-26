@@ -26,7 +26,7 @@ Time-lapse photography of astronaut Scott Tingle harvesting _Arabidopsis thalian
 
 The samples were retrieved from Earth, followed by the extraction of RNA using the [Spectrum™ Plant Total RNA Kit.](https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/genomics/dna-and-rna-purification/spectrum-plant-total-rna-kit?utm\_source=google\&utm\_medium=cpc\&utm\_campaign=21043330280\&utm\_content=\&gclid=Cj0KCQjwn7mwBhCiARIsAGoxjaIlK9x-gl1vczdw24EibFEmTrlX2RtMiq2EbIH2Sn0dcY0ZAMAkeekaAoJPEALw\_wcB) Subsequently, the RNA fragments were aligned with the Arabidopsis TAIR10 genome, employing the NF\_core\_RNAseq pipelines.
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>This analysis pipeline produced a "counts file"</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>This analysis pipeline produced a "counts file"</p></figcaption></figure>
 
 ### 1. Read counts data
 

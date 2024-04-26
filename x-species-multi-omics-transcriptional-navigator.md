@@ -14,11 +14,11 @@ Open the X-kingdom explorer&#x20;
 
 
 
-<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption><p>This metadata summary application can help you find related studies and summarize their metadata.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17) (1).png" alt=""><figcaption><p>This metadata summary application can help you find related studies and summarize their metadata.</p></figcaption></figure>
 
 [Open the metadata visualization in a new tab](https://gilroy-qlik.botany.wisc.edu/a/sense/app/2f5102bc-6120-44c8-b0dd-d5168fa4eee1/sheet/e4b5743b-897e-44ee-866b-d448259a32f7/state/analysis)
 
