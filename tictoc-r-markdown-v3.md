@@ -44,11 +44,11 @@ The advent of GMO AVP-OX technology marks a significant milestone in the field o
 
 GMO AVP-OX technology heralds a new era in agriculture, promising to address some of the most pressing challenges like drought and soil salinity that currently threaten global food security. By pioneering plants that are better equipped to handle environmental stressors, this innovation has the potential to significantly boost agricultural productivity and sustainability worldwide. The initiative not only aims at mitigating the detrimental impacts of these stresses but also at revolutionizing the management of plant stress, providing a hopeful outlook for the future of global food production amidst escalating environmental challenges.
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>TIC TOC mission patch.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>TIC TOC mission patch.</p></figcaption></figure>
 
 
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>NF_core RNAseq pipeline: <a href="https://github.com/nf-core/rnaseq">https://github.com/nf-core/rnaseq</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>NF_core RNAseq pipeline: <a href="https://github.com/nf-core/rnaseq">https://github.com/nf-core/rnaseq</a></p></figcaption></figure>
 
 The count's file produced by the NF\_Core RNAseq analysis pipeline was then analyzed with these R codes to help us understand how Cotton plants and plants expressing AVP-ox respond to the space flight environment.&#x20;
 
@@ -180,7 +180,7 @@ barplot( colSums(x)/1e6,
          
 ```
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 readCountsBias()  # detecting bias in sequencing depth 
@@ -198,7 +198,7 @@ boxplot(x, las = 2, col=col1,
         main='Distribution of transformed data') 
 ```
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ```
 #Density plot 
@@ -215,7 +215,7 @@ par(parDefault)
 densityPlot()       
 ```
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ```
 # Scatter plot of the first two samples 
@@ -223,7 +223,7 @@ plot(x[,1:2],xlab=colnames(x)[1],ylab=colnames(x)[2],
      main='Scatter plot of first two samples') 
 ```
 
-<figure><img src=".gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ```
 ####plot gene or gene family
@@ -243,7 +243,7 @@ x <- x[which(maxGene > quantile(maxGene)[1] ) ,]
 plot(as.dendrogram(hclust2( dist2(t(x)))), ylab="1 - Pearson C.C.", type = "rectangle") 
 ```
 
-<figure><img src=".gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 #Correlation matrix
@@ -251,7 +251,7 @@ input_labelPCC <- TRUE  #Show correlation coefficient?
 correlationMatrix() 
 ```
 
-<figure><img src=".gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 # Parameters for heatmap
@@ -294,20 +294,20 @@ input_KmeansReRun <- 0  #Random seed
 distributionSD()  #Distribution of standard deviations 
 ```
 
-<figure><img src=".gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 KmeansNclusters()  #Number of clusters 
 ```
 
-<figure><img src=".gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 Kmeans.out = Kmeans()   #Running K-means 
 KmeansHeatmap()   #Heatmap for k-Means 
 ```
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 #Read gene sets for enrichment analysis 
@@ -356,7 +356,7 @@ input_colorGenes <- TRUE    #Color genes in t-SNE plot?
 tSNEgenePlot()  #Plot genes using t-SNE 
 ```
 
-<figure><img src=".gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 5. PCA and beyond
 
@@ -378,7 +378,7 @@ PCAplot()
 ## Warning: Removed 24 rows containing missing values (geom_point).
 ```
 
-<figure><img src=".gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 MDSplot() 
@@ -390,7 +390,7 @@ MDSplot()
 tSNEplot()  
 ```
 
-<figure><img src=".gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 #Read gene sets for pathway analysis using PGSEA on principal components
@@ -401,7 +401,7 @@ GeneSets.out <-readGeneSets( geneSetFile,
 PCApathway() # Run PGSEA analysis 
 ```
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 cat( PCA2factor() )   #The correlation between PCs with factors 
@@ -752,9 +752,13 @@ pathwayListData.out = pathwayListData()
 enrichmentPlot(pathwayListData.out, 25  ) 
 ```
 
+<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
 ```
 enrichmentNetwork(pathwayListData.out )  
 ```
+
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ```
 ## Warning: package 'igraph' was built under R version 4.0.5
@@ -764,10 +768,14 @@ enrichmentNetwork(pathwayListData.out )
 enrichmentNetworkPlotly(pathwayListData.out) 
 ```
 
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
 ```
 input_pathwayMethod = 3  # 1  fgsea 
 fgseaPathwayData.out <- fgseaPathwayData() #Pathway analysis using fgsea 
 ```
+
+<figure><img src=".gitbook/assets/newplot.png" alt=""><figcaption></figcaption></figure>
 
 ```
 ## Warning in fgsea(pathways = gmt, stats = fold, minSize = input_minSetSize, :
@@ -825,22 +833,28 @@ pathwayListData.out = pathwayListData()
 enrichmentPlot(pathwayListData.out, 25  ) 
 ```
 
+<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
 ```
 enrichmentNetwork(pathwayListData.out )  
 ```
+
+<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ```
 enrichmentNetworkPlotly(pathwayListData.out) 
 ```
 
-```
-PGSEAplot() # pathway analysis using PGSEA 
-```
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/newplot (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
-## 
+PGSEAplot() # pathway analysis using PGSEA 
 ## Computing P values using ANOVA
 ```
+
+<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Pathway analysis 2
 
@@ -906,13 +920,19 @@ pathwayListData.out = pathwayListData()
 enrichmentPlot(pathwayListData.out, 25  ) 
 ```
 
+<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
 ```
 enrichmentNetwork(pathwayListData.out )  
 ```
 
+<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
 ```
 enrichmentNetworkPlotly(pathwayListData.out) 
 ```
+
+<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ```
 input_pathwayMethod = 3  # 1  fgsea 
@@ -975,9 +995,15 @@ pathwayListData.out = pathwayListData()
 enrichmentPlot(pathwayListData.out, 25  ) 
 ```
 
+<figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
 ```
 enrichmentNetwork(pathwayListData.out )  
 ```
+
+<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+### 8. Pathway analysis 3
 
 ```
 enrichmentNetworkPlotly(pathwayListData.out) 
@@ -991,8 +1017,6 @@ PGSEAplot() # pathway analysis using PGSEA
 ## 
 ## Computing P values using ANOVA
 ```
-
-### 8. Pathway analysis 3
 
 ```
 input_selectContrast1 <- 'A68-D130' #select Comparison 
@@ -1056,13 +1080,19 @@ pathwayListData.out = pathwayListData()
 enrichmentPlot(pathwayListData.out, 25  ) 
 ```
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ```
 enrichmentNetwork(pathwayListData.out )  
 ```
 
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ```
 enrichmentNetworkPlotly(pathwayListData.out) 
 ```
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ```
 input_pathwayMethod = 3  # 1  fgsea 
@@ -1120,13 +1150,19 @@ pathwayListData.out = pathwayListData()
 enrichmentPlot(pathwayListData.out, 25  ) 
 ```
 
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 ```
 enrichmentNetwork(pathwayListData.out )  
 ```
 
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 ```
 enrichmentNetworkPlotly(pathwayListData.out) 
 ```
+
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ```
 PGSEAplot() # pathway analysis using PGSEA 
@@ -1149,9 +1185,6 @@ genomePlotly() # shows fold-changes on the genome
 
 ```
 ## Warning in eval(quote(list(...)), env): NAs introduced by coercion
-```
-
-```
 ## Warning in genomePlotly(): NAs introduced by coercion
 ```
 
@@ -1195,9 +1228,6 @@ genomePlotly() # shows fold-changes on the genome
 
 ```
 ## Warning in eval(quote(list(...)), env): NAs introduced by coercion
-```
-
-```
 ## Warning in genomePlotly(): NAs introduced by coercion
 ```
 
@@ -1216,9 +1246,6 @@ biclustering.out = biclustering()  # run analysis
 
 ```
 ## Warning: package 'MASS' was built under R version 4.0.5
-```
-
-```
 ## Warning: package 'colorspace' was built under R version 4.0.5
 ```
 
@@ -1226,6 +1253,8 @@ biclustering.out = biclustering()  # run analysis
 input_selectBicluster <- 1  #select a cluster 
 biclustHeatmap()   # heatmap for selected cluster 
 ```
+
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ```
 input_selectGO4 <- 'All'    #Gene set category 
@@ -1262,6 +1291,8 @@ input_selectBicluster <- 2  #select a cluster
 biclustHeatmap()   # heatmap for selected cluster 
 ```
 
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 ```
 input_selectGO4 <- 'All'    #Gene set category 
 # Read pathway data again 
@@ -1297,6 +1328,8 @@ input_selectBicluster <- 3  #select a cluster
 biclustHeatmap()   # heatmap for selected cluster 
 ```
 
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 ```
 input_selectGO4 <- 'All'    #Gene set category 
 # Read pathway data again 
@@ -1317,7 +1350,7 @@ kable( results, row.names=FALSE)
 | 2.2e-03  | 4     | Terpene synthase activity   |
 | 5.7e-03  | 4     | Lyase activity              |
 
-### 11. Co-expression network
+### 11. Co-expression network (WGCNA)
 
 ```
 input_mySoftPower <- 25 #SoftPower to cutoff
@@ -1360,9 +1393,13 @@ wgcna.out = wgcna()   # run WGCNA
 softPower()  # soft power curve 
 ```
 
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 ```
 modulePlot()  # plot modules  
 ```
+
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ```
 listWGCNA.Modules.out = listWGCNA.Modules() #modules
@@ -1381,9 +1418,11 @@ moduleNetwork() # show network of top genes in selected module
 ```
 
 ```
-##  softConnectivity: FYI: connecitivty of genes with less than 16 valid samples will be returned as NA.
+##  softConnectivity: FYI: connectivity of genes with less than 16 valid samples will be returned as NA.
 ##  ..calculating connectivities..
 ```
+
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ```
 input_removeRedudantSets <- TRUE    #Remove redundant gene sets 
@@ -1405,7 +1444,7 @@ kable( results, row.names=FALSE)
 | 2.2e-03  | 3     | Proton-transporting two-sector ATPase complex-catalytic domain                               |
 | 2.5e-03  | 3     | Hydrolase activity-acting on acid anhydrides-catalyzing transmembrane movement of substances |
 
-WGCNA GO2
+**WGCNA GO2**
 
 ```
 input_selectGO5 <- 'All'    #Gene set category 
@@ -1420,9 +1459,11 @@ moduleNetwork() # show network of top genes in selected module
 ```
 
 ```
-##  softConnectivity: FYI: connecitivty of genes with less than 16 valid samples will be returned as NA.
+##  softConnectivity: FYI: connectivity of genes with less than 16 valid samples will be returned as NA.
 ##  ..calculating connectivities..
 ```
+
+<figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 ```
 input_removeRedudantSets <- TRUE    #Remove redundant gene sets 

@@ -41,7 +41,7 @@ In an effort to blend entertainment with education, we introduce an interactive 
 3. **Explore Your Data**: Post-mission, dive into an exploration of the data generated during gameplay, gaining insights into practical data application. [Launch score board visualization in a new tab](https://www.google.com/url?q=https%3A%2F%2Fgilroy-qlik.botany.wisc.edu%2Fa%2Fsingle%2F%3Fappid%3Dc56014ee-4a25-429f-95a7-b5139cd48d50%26sheet%3De0d08cdc-3989-4bd3-9621-6c7fc107a98a%26opt%3Dcurrsel%252Cctxmenu\&sa=D\&sntz=1\&usg=AOvVaw3mQk0-iEE8RcgHW1nUdDwB)
 4.
 
-    <figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Collaborative Platform: Kids in Data
 

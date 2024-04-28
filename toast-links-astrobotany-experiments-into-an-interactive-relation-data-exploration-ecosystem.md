@@ -24,7 +24,7 @@ TOAST addresses the complexities of mining extensive omics data, facilitating in
 
 For further details on TOAST and its applications, visit: \[Astrobiology at the University of Wisconsin-Madison]\(https://astrobiology.botany.wisc.edu/astrobotany
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="549"><figcaption><p>Graphical methods abstract.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt="" width="549"><figcaption><p>Graphical methods abstract.</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption><p><a href="https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.00147/full">https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.00147/full</a></p></figcaption></figure>
 
