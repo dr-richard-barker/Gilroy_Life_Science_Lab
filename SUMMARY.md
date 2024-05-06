@@ -19,4 +19,4 @@
 * [NASA Spectrum](nasa-spectrum.md)
 * [SALAD](salad/README.md)
   * [Joke: Prompt engineering description of RPM function or future work?](salad/prompt-engineering-description-of-rpm-function.md)
-* [TICTOC R Markdown v3](tictoc-r-markdown-v3-1.md)
+* [Simon's References](simons-references.md)
