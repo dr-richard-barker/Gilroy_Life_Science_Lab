@@ -79,7 +79,7 @@ Figure 1 shows the total number of mapped reads for each sample. Reads that map 
 
 Figure 2 shows the proportion of features with no read count in each sample. We expect this proportion to be similar within conditions. Features with null read counts in the 28 samples will not be taken into account for the analysis with edgeR. Here, 1717 features (4.12%) are in this situation (dashed line).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 2: Proportion of features with null read counts in each sample.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 2: Proportion of features with null read counts in each sample.</p></figcaption></figure>
 
 
 

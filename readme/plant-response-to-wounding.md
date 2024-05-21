@@ -10,7 +10,7 @@ Recent studies have elucidated the pivotal role of glutamate-like receptors with
 Science video showing plant response to wounding.&#x20;
 {% endembed %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Schematic diagram showing key components required for the propagation of a calcium wave and the role that reactive oxygen species potentially play (Reviewed by Gilroy et al., 2015).</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Schematic diagram showing key components required for the propagation of a calcium wave and the role that reactive oxygen species potentially play (Reviewed by Gilroy et al., 2015).</p></figcaption></figure>
 
 
 
