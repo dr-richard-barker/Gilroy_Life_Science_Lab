@@ -24,3 +24,4 @@
 * [Machine learning with the NASA Open Science Data Archive](machine-learning-with-the-nasa-open-science-data-archive.md)
 * [Joke: Prompt engineering description of RPM function or future work?](prompt-engineering-description-of-rpm-function.md)
 * [Bio-Plex Lesson's learnt...](bio-plex.md)
+* [KSC Space Crop Production gap list](ksc-space-crop-production-gap-list.md)
