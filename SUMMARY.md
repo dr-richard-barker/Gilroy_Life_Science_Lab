@@ -23,4 +23,4 @@
   * [Targeting Improved Cotton through Orbital Cultivation (TICTOC)](root-system-architecture-and-gravitropism-analysis-of-wild-type-and-a68-cotton/tictoc-r-markdown-v3.md)
 * [Machine learning with the NASA Open Science Data Archive](machine-learning-with-the-nasa-open-science-data-archive.md)
 * [Joke: Prompt engineering description of RPM function or future work?](prompt-engineering-description-of-rpm-function.md)
-* [Bio-Plex](bio-plex.md)
+* [Bio-Plex Lesson's learnt...](bio-plex-lessons-learnt....md)
