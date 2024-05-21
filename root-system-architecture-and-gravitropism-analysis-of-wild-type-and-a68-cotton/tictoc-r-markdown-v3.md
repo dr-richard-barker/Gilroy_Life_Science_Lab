@@ -44,11 +44,11 @@ The advent of GMO AVP-OX technology marks a significant milestone in the field o
 
 GMO AVP-OX technology heralds a new era in agriculture, promising to address some of the most pressing challenges like drought and soil salinity that currently threaten global food security. By pioneering plants that are better equipped to handle environmental stressors, this innovation has the potential to significantly boost agricultural productivity and sustainability worldwide. The initiative not only aims at mitigating the detrimental impacts of these stresses but also at revolutionizing the management of plant stress, providing a hopeful outlook for the future of global food production amidst escalating environmental challenges.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>TIC TOC mission patch.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>TIC TOC mission patch.</p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>NF_core RNAseq pipeline: <a href="https://github.com/nf-core/rnaseq">https://github.com/nf-core/rnaseq</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>NF_core RNAseq pipeline: <a href="https://github.com/nf-core/rnaseq">https://github.com/nf-core/rnaseq</a></p></figcaption></figure>
 
 The count's file produced by the NF\_Core RNAseq analysis pipeline was then analyzed with these R codes to help us understand how Cotton plants and plants expressing AVP-ox respond to the space flight environment.&#x20;
 
@@ -198,7 +198,7 @@ boxplot(x, las = 2, col=col1,
         main='Distribution of transformed data') 
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ```
 #Density plot 
@@ -215,7 +215,7 @@ par(parDefault)
 densityPlot()       
 ```
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ```
 # Scatter plot of the first two samples 
@@ -223,7 +223,7 @@ plot(x[,1:2],xlab=colnames(x)[1],ylab=colnames(x)[2],
      main='Scatter plot of first two samples') 
 ```
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ```
 ####plot gene or gene family
@@ -243,7 +243,7 @@ x <- x[which(maxGene > quantile(maxGene)[1] ) ,]
 plot(as.dendrogram(hclust2( dist2(t(x)))), ylab="1 - Pearson C.C.", type = "rectangle") 
 ```
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 #Correlation matrix
@@ -251,7 +251,7 @@ input_labelPCC <- TRUE  #Show correlation coefficient?
 correlationMatrix() 
 ```
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 # Parameters for heatmap
@@ -294,7 +294,7 @@ input_KmeansReRun <- 0  #Random seed
 distributionSD()  #Distribution of standard deviations 
 ```
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 KmeansNclusters()  #Number of clusters 
@@ -307,7 +307,7 @@ Kmeans.out = Kmeans()   #Running K-means
 KmeansHeatmap()   #Heatmap for k-Means 
 ```
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 #Read gene sets for enrichment analysis 
@@ -1080,19 +1080,19 @@ pathwayListData.out = pathwayListData()
 enrichmentPlot(pathwayListData.out, 25  ) 
 ```
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ```
 enrichmentNetwork(pathwayListData.out )  
 ```
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 enrichmentNetworkPlotly(pathwayListData.out) 
 ```
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 input_pathwayMethod = 3  # 1  fgsea 
@@ -1150,19 +1150,19 @@ pathwayListData.out = pathwayListData()
 enrichmentPlot(pathwayListData.out, 25  ) 
 ```
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 enrichmentNetwork(pathwayListData.out )  
 ```
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 enrichmentNetworkPlotly(pathwayListData.out) 
 ```
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 PGSEAplot() # pathway analysis using PGSEA 
@@ -1254,7 +1254,7 @@ input_selectBicluster <- 1  #select a cluster
 biclustHeatmap()   # heatmap for selected cluster 
 ```
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 input_selectGO4 <- 'All'    #Gene set category 
@@ -1291,7 +1291,7 @@ input_selectBicluster <- 2  #select a cluster
 biclustHeatmap()   # heatmap for selected cluster 
 ```
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 input_selectGO4 <- 'All'    #Gene set category 

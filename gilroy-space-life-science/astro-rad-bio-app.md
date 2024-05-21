@@ -36,7 +36,7 @@ For more detailed data, contact SRAG, through GeneLab ([https://genelab.nasa.gov
 
 ## Background radiation on the Earth is different from intergalactic cosmic rays (GCR) and solar winds. <a href="#h.p_tyzl_adcqwta_l" id="h.p_tyzl_adcqwta_l"></a>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>uRADMoniter provides real time monitoring of background radiation at a range of sites around the Earth.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>uRADMoniter provides real time monitoring of background radiation at a range of sites around the Earth.</p></figcaption></figure>
 
 {% embed url="https://www.uradmonitor.com/" %}
 Follow this link to use the interactive version
