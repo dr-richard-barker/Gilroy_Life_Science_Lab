@@ -36,7 +36,7 @@ Several hypotheses have been put forward as to how a single gene can have such a
 
 Thus, AVP1 lines tend to develop a more extensive root system capable of mining a more expansive volume of soil, providing a further potential element in the stress resistance of these plants. Indeed, restricting the expansion of the root zone has long been known to limit cotton plant growth and yield (4). One element driving the shape of the root system is gravity. Gravitropism regulates the angle that each root grows relative to the gravity vector such that some roots grow out laterally, whereas some drive deeply into the soil. These root angles (the so-called gravitropic set point angle of the organ (9)) are determined through a combination of genetics and environmental
 
-![](../.gitbook/assets/0.jpeg) ![](../.gitbook/assets/1.png)
+![](../.gitbook/assets/0.jpeg) ![](<../.gitbook/assets/1 (1).png>)
 
 interactions (e.g., (28; 29; 44). A deeper, more extensive root system is expected to not only improve drought tolerance but also to interact with the long-term carbon cycle, e.g., locking more root-based carbon deeper into the soil, contributing to carbon sequestration and mitigation of rising atmospheric CO2 levels (11; 20; 26; 39).
 
@@ -120,7 +120,7 @@ We also regularly provide local news and radio interviews and online outreach su
 
 We also increase the reach of these efforts with the PI and CoI providing social media content, including a WordPress flight blog, a Facebook page and an Instagram site. We plan to use all these avenues to promote the cotton project and engage as large a community as possible in the work. We also maintain a student-run outreach website focused on astrobotany (42) that provides background and information for a more general audience on the science of plant biology in space. The cotton sustainability challenge will fit well into this format and so astrobotany.com will provide a further entry point for this work targeted to the general public, school students, teachers and undergraduates. We plan to maintain this vigorous level of outreach effort incorporating the cotton challenge as the latest flight opportunity we discuss and promote.
 
-![](../.gitbook/assets/4.jpeg) ![](../.gitbook/assets/5.png)
+![](../.gitbook/assets/4.jpeg) ![](<../.gitbook/assets/5 (1).png>)
 
 **VII: REFERENCES**
 

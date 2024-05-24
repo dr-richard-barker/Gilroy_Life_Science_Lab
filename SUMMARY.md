@@ -25,3 +25,4 @@
 * [Joke: Prompt engineering description of RPM function or future work?](prompt-engineering-description-of-rpm-function.md)
 * [Bio-Plex Lesson's learnt...](bio-plex.md)
 * [KSC Space Crop Production gap list](ksc-space-crop-production-gap-list.md)
+* [AIRI Astrobotany International Research Initiative Program I\_ Microgreens in Microgravity Research Guide](airi-astrobotany-international-research-initiative-program-i\_-microgreens-in-microgravity-research-g.md)
