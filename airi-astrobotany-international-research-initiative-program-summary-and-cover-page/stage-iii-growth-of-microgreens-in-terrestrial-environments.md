@@ -6,12 +6,12 @@ In this stage, participants focus on growth patterns of microgreens in soil grow
 
 **Supplies:**
 
-* [Hamama kit](https://www.hamama.com/), or
-  * Standard “1020 Planting Trays”
-  * Standard lab weighing tray,
-  * Petri dishes
-  * Record your experimental design, in your science journal,
-  * Two two seed types need to be grown in parallel for comparison
+* For a quick easy protocol you could try [Hamama kit](https://www.hamama.com/), or&#x20;
+  * Standard “1020 Planting Trays”&#x20;
+    * Standard lab weighing tray,
+      * Petri dishes
+* Record your experimental design, in your "science journal" or try a online platform such as [Benchling](https://www.benchling.com/).
+* Two two seed types need to be grown in parallel for comparison
 * Seed quilts/Planting Soil / vermiculite / perlite / and water (volume is crucial)
 * Dry Seeds (Any species can be used see supplementary tables for guide on difficulty levels)
 * Ambient Temperature Thermometer
@@ -71,5 +71,3 @@ In this stage, participants focus on growth patterns of microgreens in soil grow
 | <p><strong>How to share Plant leaf area data</strong></p><p><strong>Student Data Entry</strong></p><p><strong>Goal:</strong> Observe a real experimental data matrix and then make your own</p><ul><li>Primary data</li><li><p>Environmental meta-data</p><ul><li>Temp</li><li>Humidity</li><li>Light quality</li><li>Light intensity</li><li>Irrigation system</li></ul></li></ul><p><strong>Numbers entered into a Epicollect5 website or Smart device app attached link.</strong></p><ul><li><a href="https://five.epicollect.net/project/urban-microgreens">https://five.epicollect.net/project/urban-microgreens</a></li><li>You can also download the Epicollect5 app onto your smart device and then search for the “Urban microgreens” project.</li></ul><p><strong>Data analysis</strong></p><p><strong>Goal:</strong> Introduction to data visualization using DRB astrobiology app’s…. Coming soon (need the app to be finalized)</p><p></p> |
 
 <figure><img src="https://lh7-us.googleusercontent.com/olSFgTdPw0k7lK2Q0MMXIayMei0sBbmG3ADgzVuHvD5KvLwj1-vpCQuv7hnpzh4klUyKJb7Wc9tWWHPtX_3MnP-axd0esY3j084JkWXTNgVyov__3S2u6f1-wZMuMGDx3UDxrTWj8Gm6-pK-44R-zA" alt=""><figcaption></figcaption></figure>
-
-### &#x20;<a href="#id-5znn1pk87f86" id="id-5znn1pk87f86"></a>

@@ -1,6 +1,6 @@
-# Research stage VI: Microgreens Gravitropism assays
+# Research stage VI: Gravitropism assays
 
-**Experimental Variable**
+### **Experimental Variable**
 
 * **Gravitropic stimuli:** On the 4th day of observations, (half of the total amount of plates seeded) rotate 90 degrees.
 * Take photos every 15min for 6 hours.
@@ -65,4 +65,3 @@ On Earth, it is challenging to achieve a prolonged state of microgravity. Howeve
 
 <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
-aa

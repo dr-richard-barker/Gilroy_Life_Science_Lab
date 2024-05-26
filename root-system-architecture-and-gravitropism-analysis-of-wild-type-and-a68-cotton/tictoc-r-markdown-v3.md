@@ -48,7 +48,7 @@ GMO AVP-OX technology heralds a new era in agriculture, promising to address som
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>NF_core RNAseq pipeline: <a href="https://github.com/nf-core/rnaseq">https://github.com/nf-core/rnaseq</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>NF_core RNAseq pipeline: <a href="https://github.com/nf-core/rnaseq">https://github.com/nf-core/rnaseq</a></p></figcaption></figure>
 
 The count's file produced by the NF\_Core RNAseq analysis pipeline was then analyzed with these R codes to help us understand how Cotton plants and plants expressing AVP-ox respond to the space flight environment.&#x20;
 
@@ -198,7 +198,7 @@ boxplot(x, las = 2, col=col1,
         main='Distribution of transformed data') 
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ```
 #Density plot 
@@ -215,7 +215,7 @@ par(parDefault)
 densityPlot()       
 ```
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ```
 # Scatter plot of the first two samples 
@@ -1086,13 +1086,13 @@ enrichmentPlot(pathwayListData.out, 25  )
 enrichmentNetwork(pathwayListData.out )  
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 enrichmentNetworkPlotly(pathwayListData.out) 
 ```
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 input_pathwayMethod = 3  # 1  fgsea 

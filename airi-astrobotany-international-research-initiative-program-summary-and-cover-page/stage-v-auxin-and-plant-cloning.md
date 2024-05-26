@@ -1,4 +1,4 @@
-# Research stage III: Auxin experimentation and Plant Cloning
+# STAGE V: Auxin and Plant Cloning
 
 Auxin movement is important for gravity and light perception and response in plants. Auxin is also an important tool in agriculture being used to both clone and kill plants. Many pioneering studies of plants in orbit have been achieved using plant stem cell cultures. Growing stem cells and cloning plants is easy. Understanding how auxin affects plants at a cellular cell is difficult and requires computers to model and make simulations.
 
@@ -9,8 +9,6 @@ Auxin movement is important for gravity and light perception and response in pla
 * Computers for modeling software
 * Auxin powder (lots of brands Bonide, MiracleGro "FastRoot to choose from and compare against each other in experiments)
 * Plant you want to clone (Tomatoes, chili’s, lavender, rose, what ever you want or pre-cut kitchen Rosemary from the supermarket can work)
-
-### &#x20;<a href="#d1q8eg1jyph4" id="d1q8eg1jyph4"></a>
 
 ### STAGE III Protocols for Auxin experiments and cloning <a href="#jhr9cepaf5ca" id="jhr9cepaf5ca"></a>
 
@@ -24,4 +22,6 @@ Auxin movement is important for gravity and light perception and response in pla
 
 <figure><img src="https://lh7-us.googleusercontent.com/_8jyAnakqVC19hUKCLElJvloT2TbTehxgqylpPERh29VD8rufq3IAuW6ZYCMUSFqxOsq2ME07ISQTlhGmpzM_kciH2mUN74BkF8t57ykzQovHOXSuE3LzXYqwYo0DNQrCOBWGbTuk3_Y9tEqZTZ2-g" alt=""><figcaption></figcaption></figure>
 
-Software to perform root auxin flow modeling
+| <p><strong>STAGE V</strong></p><p><strong>Cloning / cuttings protocol</strong></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>Pour a moderate amount of agar in selected plates (use rockwool, perlite or soil).</li><li>Cut small shoot of plant</li><li><p>Dip wound in Auxin powder</p><ul><li>Product link….</li></ul></li><li>Gently press stem into the media making sure the stem is embedded.</li></ul><p>(Do not crush seeds. Use minimal pressure)</p><ul><li>Cover plates with lids and seal with micropore medical tape.</li><li>Store plants in your growth environment (Blue light help some species establish roots better).</li><li>Don’t let them dry out.</li><li>After they’ve made roots move the new plants into a soil pots or hydroponics and enjoy.</li></ul> |
