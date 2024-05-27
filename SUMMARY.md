@@ -28,7 +28,7 @@
 * [AIRI Astrobotany International Research Initiative Program Summary and cover page](airi-astrobotany-international-research-initiative-program-summary-and-cover-page/README.md)
   * [AIRI AstroBotany introduction](airi-astrobotany-international-research-initiative-program-summary-and-cover-page/airi-astrobotany-introduction.md)
   * [Stage I: Space Invaders Data Literacy](airi-astrobotany-international-research-initiative-program-summary-and-cover-page/stage-i-space-invaders-data-literacy.md)
-  * [Stage II](airi-astrobotany-international-research-initiative-program-summary-and-cover-page/stage-ii.md)
+  * [Stage II:  What's your favorite microgreen?](airi-astrobotany-international-research-initiative-program-summary-and-cover-page/stage-ii-whats-your-favorite-microgreen.md)
   * [Stage III: Growth of Microgreens in Terrestrial Environments](airi-astrobotany-international-research-initiative-program-summary-and-cover-page/stage-iii-growth-of-microgreens-in-terrestrial-environments.md)
   * [Research Stage IV: Microgreen development and gravitropic response](airi-astrobotany-international-research-initiative-program-summary-and-cover-page/research-stage-iv-microgreen-development-and-gravitropic-response.md)
   * [STAGE V: Auxin and Plant Cloning](airi-astrobotany-international-research-initiative-program-summary-and-cover-page/stage-v-auxin-and-plant-cloning.md)
