@@ -28,7 +28,7 @@ For more information, please visit our website.
 
 Happy Gaming and Learning!
 
-![](../.gitbook/assets/4.png)
+<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 ![](../.gitbook/assets/5.png)
 
