@@ -2,4 +2,18 @@
 
 ### Stage II Summary: " What's your favorite microgreen" <a href="#aiwkhr4etifn" id="aiwkhr4etifn"></a>
 
-Help us work out what the world's favorite microgreen is. Do you use data to inform your decision?Everyone is different so let's see what the collective answer is and why? Does your choice relate to your age, location, or something else? To help share your Insights with the AstroBotany Research Community please Participate in our platform to share your thoughts on microgreens with the AstroBotany research community. Your input is crucial! The Key Questions we aim to answer is related to your preference, does it depend on age, location, or other factors? Do you rely on data to make your choice or it just your taste buds or gut that make the descision? Help us use nutrientional and yield data while we discover the world's most popular microgreen we also creates [USDA microgreen meta-data application](https://www.google.com/url?q=https%3A%2F%2Fastrobiology.botany.wisc.edu%2Feducation-outreach%2Fmicrogreendiversity\&sa=D\&sntz=1\&usg=AOvVaw2e4sc\_CKnrmUUEjB9puXDC) to help provide you with experimental data while you select your favorite microgreen variety?
+As a Space Biology scientist who is interested in the study of microgreens, requesting your collaboration. We are on a mission to find the world's favorite microgreen. This project aims to understand the factors that influence these preferences.
+
+We have developed a USDA microgreen meta-data application ([USDA microgreen meta-data application](https://www.google.com/url?q=https%3A%2F%2Fastrobiology.botany.wisc.edu%2Feducation-outreach%2Fmicrogreendiversity\&sa=D\&sntz=1\&usg=AOvVaw2e4sc\_CKnrmUUEjB9puXDC)) that provides experimental data on various microgreen varieties. This data, which includes nutritional and yield information, can be a valuable tool in making informed decisions.
+
+{% embed url="https://youtu.be/sULYrcvVZh0" %}
+
+However, we understand that the choice of a favorite microgreen is not always data-driven. Factors such as age, location, taste preference, and even gut feeling can play a significant role. That’s why your input is so crucial.
+
+By participating in our platform and sharing your thoughts, you will be contributing to a broader understanding of microgreen preferences. Your insights will not only enrich our research but also provide valuable data that can influence future studies in AstroBotany.
+
+So, I invite you to join us in this scientific exploration. Share your thoughts, let your preferences be heard, and contribute to the AstroBotany Research Community. Your collaboration can help us answer key questions and shed light on the fascinating world of microgreens. Thank you for considering this invitation. We look forward to your valuable contribution.&#x20;
+
+So, what's your favorate microgreen and why? [Link to microgreen survey. ](https://five.epicollect.net/project/your-favorite-microgreen-is)
+
+{% embed url="https://five.epicollect.net/project/your-favorite-microgreen-is" %}
