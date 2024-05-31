@@ -1,4 +1,4 @@
-# Machine learning with the NASA Open Science Data Archive
+# Machine learning training with the NASA Open Science Data Archive
 
 This material was made by Dr Lauren Sanders and Dr James Casaletto.
 
@@ -29,3 +29,15 @@ Lecture 5
 Lecture 6
 
 {% embed url="https://www.youtube.com/watch?v=XPJmokNE7jY&ab_channel=TOPST_ScienceCore_AIML" %}
+
+Lecture 7
+
+{% embed url="https://www.youtube.com/watch?v=HFDbWg0ChNY" %}
+
+Lecture 8
+
+{% embed url="https://www.youtube.com/watch?v=csqTkSyXGgk" %}
+
+Lecture 9
+
+{% embed url="https://www.youtube.com/watch?v=MmjIxkmMLHE" %}

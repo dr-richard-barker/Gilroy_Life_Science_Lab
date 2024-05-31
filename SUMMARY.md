@@ -21,7 +21,7 @@
 * [Root system and gravitropism data for wild type and A68 AVP-ox Cotton. (pre-TICTOC)](root-system-architecture-and-gravitropism-analysis-of-wild-type-and-a68-cotton/README.md)
   * [TICTOC CASIS cotton proposal](root-system-architecture-and-gravitropism-analysis-of-wild-type-and-a68-cotton/tictoc-casis-cotton-proposal.md)
   * [Targeting Improved Cotton through Orbital Cultivation (TICTOC)](root-system-architecture-and-gravitropism-analysis-of-wild-type-and-a68-cotton/tictoc-r-markdown-v3.md)
-* [Machine learning with the NASA Open Science Data Archive](machine-learning-with-the-nasa-open-science-data-archive.md)
+* [Machine learning training with the NASA Open Science Data Archive](machine-learning-training-with-the-nasa-open-science-data-archive.md)
 * [Joke: Prompt engineering description of RPM function or future work?](prompt-engineering-description-of-rpm-function.md)
 * [Bio-Plex Lesson's learnt...](bio-plex.md)
 * [KSC Space Crop Production gap list](ksc-space-crop-production-gap-list.md)
