@@ -2,7 +2,11 @@
 
 [Link to the interactive app for viewing KSC challenge list.](https://gilroy-qlik.botany.wisc.edu/a/qps/logout?targetUri=https://gilroy-qlik.botany.wisc.edu/a/sense/app/4edb288e-85ce-4146-b3f3-6a3fb6f9ac30/sheet/036ef1a4-2b79-4c44-ac5a-43398fb6b7e4/state/analysis)
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://gilroy-qlik.botany.wisc.edu/a/qps/logout?targetUri=https://gilroy-qlik.botany.wisc.edu/a/sense/app/4edb288e-85ce-4146-b3f3-6a3fb6f9ac30/sheet/036ef1a4-2b79-4c44-ac5a-43398fb6b7e4/state/analysis" %}
+
+More information canbe found here: [https://ag.arizona.edu/lunargreenhouse/](https://ag.arizona.edu/lunargreenhouse/)
 
 More information can be found here: [https://www.researchgate.net/publication/234239599\_Crop\_production\_data\_for\_bioregenerative\_life\_support\_Observations\_from\_testing\_at\_NASA's\_Kennedy\_Space\_Center](https://www.researchgate.net/publication/234239599\_Crop\_production\_data\_for\_bioregenerative\_life\_support\_Observations\_from\_testing\_at\_NASA's\_Kennedy\_Space\_Center)
 
@@ -50,13 +54,13 @@ More information can be found here: [https://www.researchgate.net/publication/23
 
 
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -77,3 +81,5 @@ More information can be found here: [https://www.researchgate.net/publication/23
 <figure><img src=".gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

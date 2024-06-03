@@ -30,7 +30,7 @@ An ideal crop type that fits this criteria are salad crops. Salad crops are suit
 
 Microgreens are small (2.5cm-8cm in height), colorful, nutrient-dense crops that are often used to enhance flavor in dishes. Generated from vegetables, legumes, grasses and herb seeds, microgreens typically have short species-specific production cycles lasting between one to three weeks. They are harvested after their cotyledons are expanded and the first set of true leaves have emerged. Studies from the USDA have shown that at equal weights, most microgreens contain about 5-30 times more nutrients than what is found in the mature leaves of the same plants. Due to their high nutrient concentrations, fast growth cycles, minimal water/space, and horticultural requirements, microgreens could be considered as an integral component of a bioregenerative life support system. This enables them to contribute to both the dietary and psychological needs of space crews.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>https://www.genetics.org/content/208/4/1337</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>https://www.genetics.org/content/208/4/1337</p></figcaption></figure>
 
 _Arabidopsis thaliana_ is a model plant that has been used to investigate how plant morphology changes in response to their environment as they age. Their genomes express themselves during the different developmental stages they go through. Practicing[ time-lapse photography ](https://www.youtube.com/watch?v=CxPuEViG-6g\&ab\_channel=RichardBarker)is a good way to learn how fast different species grow.
 
@@ -50,9 +50,9 @@ _**We often get asked: How does gravity affect plant development and growth in s
 
 Microgravity affects root growth patterns as well as various elements in plant biology. Not only does gravity affect how roots and stems grow, but it also affects essential biological processes impacting how the plant develops. One of the processes affected is plant gas exchange and mixing. Convection cells, where warmer air rises and cooler air falls, do not occur in microgravity environments. This reduces the amount of air circulation that occurs, which can cause gas accumulation in cells. As plants give off CO2, it stays close to the plant, displacing O2 and causing hypoxic zones in the plant. This can restrict O2 supply which causes local hypoxic zones near the surface of the plant. Development in areas of plants that have high metabolic and respiring rates, such as root tips, are then at risk of being affected. This could potentially negatively impact crop yields and the nutritional density of plants grown in microgravity.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Figure 5:** How plants respond to microgravity is hard to generalize. It depends on the variety since different growth patterns have evolved and been selected for during crop breeding. Plants size and shapes are determined by environmental signals that are perceived and translated into specific developmental responses. Source: Oladosu et al., (2020) Submergence Tolerance in Rice: Review of Mechanism, Breeding and, Future Prospects. [**https://doi.org/10.3390/su12041632**](https://doi.org/10.3390/su12041632)
 
