@@ -101,10 +101,17 @@ for (i in 1:length(URLs)){
 ```
 
 ```
-#Read in frailty biomarkers
+#Read in table of biomarkers
 biomarkers<-fread("biomarkers_multiple_ids.txt",header=T)
 head(biomarkers)
 ```
+
+
+
+| Orig\_name | Ensembl\_Hsap   | Ensembl\_Mmus      | Symbol\_Mmus | Symbol\_Hsap |
+| ---------- | --------------- | ------------------ | ------------ | ------------ |
+| ACTN3      | ENSG00000248746 | ENSMUSG00000006457 | Actn3        | ACTN3        |
+| mtDNA      | ENSG00000107815 | ENSMUSG00000025209 | Twnk         | TWNK         |
 
 **Output DE metrics for overlapping genes between frailty biomarkers and GeneLab datasets**
 
@@ -137,11 +144,11 @@ glds104
 
 ```
 sessionInfo()
+R version 4.1.3 (2022-03-10)
+Platform: x86_64-pc-linux-gnu (64-bit)
 ```
 
 ```
-R version 4.1.3 (2022-03-10)
-Platform: x86_64-pc-linux-gnu (64-bit)
 Running under: Debian GNU/Linux 10 (buster)
 
 Matrix products: default
@@ -179,7 +186,7 @@ loaded via a namespace (and not attached):
 [53] R6_2.5.1         compiler_4.1.3  
 ```
 
-In \[ ]:
+
 
 
 
@@ -248,6 +255,6 @@ for filename in filenames:
   print(f"Analysis results for {filename}")
 ```
 
-Python
+
 
 \
