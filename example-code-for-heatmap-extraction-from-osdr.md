@@ -1,4 +1,4 @@
-# Template for heatmap extraction from OSDR
+# Example code for heatmap extraction from OSDR
 
 #### Notebook for extracting biomarkers from GeneLab differential expression analysis datasets <a href="#notebook-for-extracting-frailty-biomarkers-from-genelab-differential-expression-analysis-datasets" id="notebook-for-extracting-frailty-biomarkers-from-genelab-differential-expression-analysis-datasets"></a>
 
@@ -19,7 +19,7 @@ To analyze data related to for example: **OSD-120** and _Arabidopsis thaliana_, 
 
 If you have the data related to OSD-120 and Arabidopsis thaliana with appropriate identifiers, you can adapt this code as a starting point for your analysis. It's recommended to consult relevant resources on differential expression analysis in R for Arabidopsis thaliana data.
 
-AI example:
+**General AI example:**
 
 Python
 
@@ -68,16 +68,12 @@ But we also have this real example from friends who work on human data.
 
 
 
-Title: Was Project: xxx by  Author: yyy
-
-In \[34]:
+**Title: Was Project: xxx by  Author: yyy**
 
 <pre><code><strong>#Load libraries
 </strong><strong>library(tidyverse)
 </strong>library(data.table)
 </code></pre>
-
-In \[5]:
 
 ```
 #Set working directory
@@ -104,19 +100,13 @@ for (i in 1:length(URLs)){
     }
 ```
 
-In \[35]:
-
 ```
 #Read in frailty biomarkers
 biomarkers<-fread("biomarkers_multiple_ids.txt",header=T)
 head(biomarkers)
 ```
 
-tablex
-
 **Output DE metrics for overlapping genes between frailty biomarkers and GeneLab datasets**
-
-In \[25]:
 
 ```
 #GLDS-91: RNA-Seq, Human (use Ensembl_Hsap to map biomarkers)
@@ -127,10 +117,6 @@ glds91<-fread("GLDS-91_rna_seq_differential_expression.csv",header=T) %>%
 glds91
 ```
 
-tablex
-
-In \[27]:
-
 ```
 #GLDS-52: Array, Human (use Ensembl_Hsap to map biomarkers)
 glds52<-fread("GLDS-52_array_differential_expression.csv",header=T) %>%
@@ -140,10 +126,6 @@ glds52<-fread("GLDS-52_array_differential_expression.csv",header=T) %>%
 glds52
 ```
 
-In \[32]:
-
-tablex
-
 ```
 #GLDS-104: RNA-Seq, Mouse (use Ensembl_Mmus to map biomarkers)
 glds104<-fread("GLDS-104_rna_seq_differential_expression.csv",header=T) %>%
@@ -152,12 +134,6 @@ glds104<-fread("GLDS-104_rna_seq_differential_expression.csv",header=T) %>%
                `Adj.p.value_(FLT)v(GC)`,`All.mean`,`Group.Mean_(GC)`,`Group.Mean_(GC)`)
 glds104
 ```
-
-In \[31]:
-
-
-
-tablex
 
 ```
 sessionInfo()

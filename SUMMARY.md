@@ -36,6 +36,6 @@
   * [Research stage VI: Gravitropism assays](airi-astrobotany-international-research-initiative-program-summary-and-cover-page/research-stage-vi-gravitropism-assays.md)
   * [Tables of Microgreen Growth Rates and example Conditions to use a General Guide](airi-astrobotany-international-research-initiative-program-summary-and-cover-page/tables-of-microgreen-growth-rates-and-example-conditions-to-use-a-general-guide.md)
   * [AIRI course links to Next Generation Science Standards](airi-astrobotany-international-research-initiative-program-summary-and-cover-page/airi-course-links-to-next-generation-science-standards.md)
-* [Template for heatmap extraction from OSDR](template-for-heatmap-extraction-from-osdr.md)
+* [Example code for heatmap extraction from OSDR](example-code-for-heatmap-extraction-from-osdr.md)
 * [frailty\_genelab](frailty\_genelab.md)
 * [USDA](usda.md)
