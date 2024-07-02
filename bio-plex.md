@@ -2,7 +2,7 @@
 
 [Link to the interactive app for viewing KSC challenge list.](https://gilroy-qlik.botany.wisc.edu/a/qps/logout?targetUri=https://gilroy-qlik.botany.wisc.edu/a/sense/app/4edb288e-85ce-4146-b3f3-6a3fb6f9ac30/sheet/036ef1a4-2b79-4c44-ac5a-43398fb6b7e4/state/analysis)
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://gilroy-qlik.botany.wisc.edu/a/qps/logout?targetUri=https://gilroy-qlik.botany.wisc.edu/a/sense/app/4edb288e-85ce-4146-b3f3-6a3fb6f9ac30/sheet/036ef1a4-2b79-4c44-ac5a-43398fb6b7e4/state/analysis" %}
 
@@ -50,27 +50,27 @@ More information can be found here: [https://www.researchgate.net/publication/23
 
 <figure><img src=".gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
@@ -82,4 +82,4 @@ More information can be found here: [https://www.researchgate.net/publication/23
 
 <figure><img src=".gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -73,17 +73,17 @@ Figure 1 shows the total number of mapped reads for each sample. Reads that map 
 * Different rRNA contamination levels between samples (even between biological replicates);
 * Slight differences between library concentrations, since they may be difficult to measure with high precision.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 1: Number of mapped reads per sample. Colors refer to the biological condition of the sample.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 1: Number of mapped reads per sample. Colors refer to the biological condition of the sample.</p></figcaption></figure>
 
 
 
 Figure 2 shows the proportion of features with no read count in each sample. We expect this proportion to be similar within conditions. Features with null read counts in the 28 samples will not be taken into account for the analysis with edgeR. Here, 1717 features (4.12%) are in this situation (dashed line).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 2: Proportion of features with null read counts in each sample.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 2: Proportion of features with null read counts in each sample.</p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 3: Density distribution of read counts.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 3: Density distribution of read counts.</p></figcaption></figure>
 
 Figure 3 shows the distribution of read counts for each sample. For sake of readability, \\(\text{log}\_2(\text{counts}+1)\\) are used instead of raw counts. Again we expect replicates to have similar distributions. In addition, this figure shows if read counts are preferably low, medium or high. This depends on the organisms as well as the biological conditions under consideration.
 
@@ -91,7 +91,7 @@ Figure 3 shows the distribution of read counts for each sample. For sake of read
 
 It may happen that one or a few features capture a high proportion of reads (up to 20% or more). This phenomenon should not influence the normalization process. The edgeR normalization has proved to be robust to this situation \[Dillies, 2012]. Anyway, we expect these high count features to be the same across replicates. They are not necessarily the same across conditions. Figure 4 illustrate the possible presence of such high-count features in the data set.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Figure 4: Percentage of reads associated with the sequence having the highest count (provided in each box on the graph) for each sample.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Figure 4: Percentage of reads associated with the sequence having the highest count (provided in each box on the graph) for each sample.</p></figcaption></figure>
 
 
 
@@ -101,7 +101,7 @@ We may wish to assess the similarity between samples across conditions. A pairwi
 * 1 for technical replicates (technical variability follows a Poisson distribution);
 * greater than 1 for biological replicates and samples from different biological conditions (biological variability is higher than technical one, data are over-dispersed with respect to Poisson). The higher the SERE value, the lower the similarity. It is expected to be lower between biological replicates than between samples of different biological conditions. Hence, the SERE statistic can be used to detect inversions between samples.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Figure 5: Pairwise comparison of samples.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Figure 5: Pairwise comparison of samples.</p></figcaption></figure>
 
 
 
@@ -117,19 +117,19 @@ edgeR suggests to filter features with null or low counts because they do not su
 
 The main variability within the experiment is expected to come from biological differences between the samples. This can be checked in three ways. The first one is to perform a hierarchical clustering of the whole sample set. This is performed after a transformation of the count data as moderated log-counts-per-million. Figure 6 shows the dendrogram obtained from CPM data. An euclidean distance is computed between samples, and the dendrogram is built upon the Ward criterion. We expect this dendrogram to group replicates and separate biological conditions.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 6: Sample clustering based on normalized data.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 6: Sample clustering based on normalized data.</p></figcaption></figure>
 
 
 
 The second method of visaulizing the experiment variability is to look at the heatmaps of the two conditions as show on figure 7. On this figure the x-axis represents the two conditions (along with the replicates) and the y-axis represent the top 20 genes with the top variance over all samples.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 7: Heatmap based on normalized data.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 7: Heatmap based on normalized data.</p></figcaption></figure>
 
 
 
 Another way of visualizing the experiment variability is to look at the first two dimensions of a multidimensional scaling plot, as shown on figure 8. On this figure, the first dimension is expected to separate samples from the different biological conditions, meaning that the biological variability is the main source of variance in the data.
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt="" width="563"><figcaption><p>Figure 8: Multidimensional scaling plot of the samples.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 8: Multidimensional scaling plot of the samples.</p></figcaption></figure>
 
 
 
@@ -147,7 +147,7 @@ edgeR computes a factor for each sample. These normalization factors apply to th
 
 Boxplots are often used to assess the quality of the normalization process, as they show how distributions are globally affected during this process. We expect normalization to stabilize distributions across samples. Figure 9 shows boxplots of raw (left) and normalized (right) data respectively.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Figure 9: Boxplots of raw (left) and normalized (right) read counts.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Figure 9: Boxplots of raw (left) and normalized (right) read counts.</p></figcaption></figure>
 
 
 
@@ -163,7 +163,7 @@ edgeR aims at fitting one linear model per feature. For this project, the design
 
 The edgeR model assumes that the count data follow a negative binomial distribution which is a robust alternative to the Poisson law when data are over-dispersed (the variance is higher than the mean). The first step of the statistical procedure is to estimate the dispersion of the data.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt="" width="563"><figcaption><p>Figure 10: Dispersion estimates.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt="" width="563"><figcaption><p>Figure 10: Dispersion estimates.</p></figcaption></figure>
 
 Figure 10 shows the result of the dispersion estimation step. The x- and y-axes represent the mean count value and the estimated dispersion respectively. Black dots represent empirical dispersion estimates for each feature (from the observed count values). The blue curve shows the relationship between the means of the counts and the dispersions modeled with splines. The red segment represents the common dispersion.
 
@@ -171,7 +171,7 @@ Figure 10 shows the result of the dispersion estimation step. The x- and y-axes 
 
 Once the dispersion estimation and the model fitting have been done, edgeR can perform the statistical testing. Figure 11 shows the distributions of raw p-values computed by the statistical test for the comparison(s) done. This distribution is expected to be a mixture of a uniform distribution on \\(\[0,1]\\) and a peak around 0 corresponding to the differentially expressed features.
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Figure 11: Distribution(s) of raw p-values.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption><p>Figure 11: Distribution(s) of raw p-values.</p></figcaption></figure>
 
 
 
@@ -179,11 +179,11 @@ Once the dispersion estimation and the model fitting have been done, edgeR can p
 
 A p-value adjustment is performed to take into account multiple testing and control the false positive rate to a chosen level \\(\alpha\\). For this analysis, a BH p-value adjustment was performed \[Benjamini, 1995 and 2001] and the level of controlled false positive rate was set to 0.05.
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Figure 12: MA-plot(s) of each comparison. Red dots represent significantly differentially expressed features.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption><p>Figure 12: MA-plot(s) of each comparison. Red dots represent significantly differentially expressed features.</p></figcaption></figure>
 
 Figure 12 represents the MA-plot of the data for the comparisons done, where differentially expressed features are highlighted in red. A MA-plot represents the log ratio of differential expression as a function of the mean intensity for each feature. Triangles correspond to features having a too low/high \\(\log\_2(\text{FC})\\) to be displayed on the plot.
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Figure 13: Volcano plot(s) of each comparison. Red dots represent significantly differentially expressed features.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Figure 13: Volcano plot(s) of each comparison. Red dots represent significantly differentially expressed features.</p></figcaption></figure>
 
 Figure 13 shows the volcano plots for the comparisons performed and differentially expressed features are still highlighted in red. A volcano plot represents the log of the adjusted P value as a function of the log ratio of differential expression.
 
