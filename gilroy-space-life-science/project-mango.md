@@ -34,7 +34,7 @@ A video showing the prevalence of microbes in a built environment.
 
 Click here to open [MANGO GeneLab ISS Study](https://gilroy-qlik.botany.wisc.edu/a/sense/app/ea54d110-b53e-40c3-ad16-3340ce30f90f/overview) in a new tab in your browser
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://gilroy-qlik.botany.wisc.edu/a/sense/app/ea54d110-b53e-40c3-ad16-3340ce30f90f/overview" %}
 
@@ -46,7 +46,7 @@ Find out more about this study at [NASA GeneLab](https://genelab-data.ndc.nasa.g
 
 [Click here ](https://gilroy-qlik.botany.wisc.edu/a/single/?appid=a3647b6a-68e0-4fc9-a034-a44089a4087f\&opt=currsel,ctxmenu\&sheet=af996849-dfb0-424d-ba06-f204fd407fec\&theme=breeze)to launch this app into your browser
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Analysis of dusk from the ISS</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Analysis of dusk from the ISS</p></figcaption></figure>
 
 {% embed url="https://gilroy-qlik.botany.wisc.edu/a/single/?appid=a3647b6a-68e0-4fc9-a034-a44089a4087f&opt=currsel,ctxmenu&sheet=af996849-dfb0-424d-ba06-f204fd407fec&theme=breeze" %}
 Analysis of dusk from the ISS
@@ -60,7 +60,7 @@ Find out more about this study at [NASA GeneLab](https://genelab-data.ndc.nasa.g
 
 [Click here](https://gilroy-qlik.botany.wisc.edu/a/single/?appid=a3647b6a-68e0-4fc9-a034-a44089a4087f\&opt=currsel,ctxmenu\&sheet=ad39ee26-6c8b-4715-850f-d9fb9c0695eb\&theme=breeze) to launch into a new tab in your browser
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Quantitiative evalulation of bioaerosols on the ISS</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Quantitiative evalulation of bioaerosols on the ISS</p></figcaption></figure>
 
 {% embed url="https://gilroy-qlik.botany.wisc.edu/a/single/?appid=a3647b6a-68e0-4fc9-a034-a44089a4087f&opt=currsel,ctxmenu&sheet=ad39ee26-6c8b-4715-850f-d9fb9c0695eb&theme=breeze" %}
 Quantitiative evalulation of bioaerosols on the ISS
